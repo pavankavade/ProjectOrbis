@@ -237,14 +237,14 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~522,500,000 (55%)
 - **Primary Regions**: Aurelia, Valoria, Bastion, Arcanum.
 - **The Concept**: The "Jack-of-All-Trades." Humans lack inherent biological magic or claws, which makes their souls "empty vessels." This allows them to absorb any type of Elemental Boon (Fire, Time, Gravity), making them the most versatile Mages.
-- **1890s Role**: The Drivers. They are the Kings, the Generals, the Shopkeepers, and the Farmers. They possess the Ambition that fuels the era.
+- **Role**: The Drivers. They are the Kings, the Generals, the Shopkeepers, and the Farmers. They possess the Ambition that fuels the era.
 - **Racial Trait**: The Blank Slate. +10% Experience Gain in any chosen Magic School.
 
 ### 2. THE MURIDAE (The Pipe-Walkers)
 - **Population**: ~142,500,000 (15%)
 - **Primary Regions**: The Undercities of all major metropolises (especially Ferrum and Arcanum).
 - **The Concept**: Civilized, bipedal Rat-Folk. They are not savages; they are hyper-clean, communal, and obsessed with efficiency. They evolved in the ruins of the Old World, learning to fix what others broke.
-- **1890s Aesthetic**: They wear heavy rubber wading boots, canvas overalls with many pockets, and brass "Breather Masks" to filter smog and scents. They carry wrenches like swords.
+- **Aesthetic**: They wear heavy rubber wading boots, canvas overalls with many pockets, and brass "Breather Masks" to filter smog and scents. They carry wrenches like swords.
 - **Social Role**: The Urban Backbone. They run the Sanitation, Recycling, and Transit networks. They maintain the sewers and the steam tunnels. "If the Rats strike, the city drowns in filth."
 - **Racial Trait**: Chem-Sense. Can smell toxins, poisons, and magic leaks. Immunity to disease.
 
@@ -252,7 +252,7 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~95,000,000 (10%)
 - **Primary Regions**: Terragard (Native), Valoria.
 - **The Concept**: A silicon-based lifeform. They look like living statues of marble, granite, or slate, growing crystal "hair" and "beards." They move slowly but with unstoppable momentum.
-- **1890s Aesthetic**: They struggle with cloth (it rips), so they wear heavy leather aprons, utility belts, and custom steel-plate suits for formal occasions. They do not wear shoes.
+- **Aesthetic**: They struggle with cloth (it rips), so they wear heavy leather aprons, utility belts, and custom steel-plate suits for formal occasions. They do not wear shoes.
 - **Social Role**: The Builders & Breakers. They are the architects who build the skyscrapers and the Heavy Infantry who act as living riot shields for the police.
 - **Racial Trait**: Lithic Density. Natural Armor Class is high. They cannot swim (they sink instantly) but can walk on the bottom of rivers.
 
@@ -260,7 +260,7 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~76,000,000 (8%)
 - **Primary Regions**: The Financial Districts of Capital Cities.
 - **The Concept**: Dwarves who traded their pickaxes for checkbooks. They realized that owning the mine is better than working in it. They are the masters of "Stable Enchantment."
-- **1890s Aesthetic**: The Rail Barons. Impeccable three-piece tweed suits, gold pocket watches, monocles, and bowler hats. Their beards are groomed with expensive oils.
+- **Aesthetic**: The Rail Barons. Impeccable three-piece tweed suits, gold pocket watches, monocles, and bowler hats. Their beards are groomed with expensive oils.
 - **Social Role**: The Elite. They own the Aether-Rail networks, the Banks, and the Gunsmithing Guilds. They are the middle-class aristocracy.
 - **Racial Trait**: Stone-Lung. Immune to inhalation hazards (smog, smoke, gas).
 
@@ -268,7 +268,7 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~47,500,000 (5%)
 - **Primary Regions**: Ferrum (The Iron South).
 - **The Concept**: Artificial lifeforms sculpted from clay and fueled by an internal "Heart-Fire." They look like cracked grey statues with magma glowing beneath the skin. They emit constant heat.
-- **1890s Aesthetic**: They often wear heavy iron containment suits to prevent setting furniture on fire. In the factories, they work naked, their skin glowing white-hot.
+- **Aesthetic**: They often wear heavy iron containment suits to prevent setting furniture on fire. In the factories, they work naked, their skin glowing white-hot.
 - **Social Role**: The Living Engines. They work the hazardous jobs: inside blast furnaces, handling radioactive mana-waste, and powering boilers. They are often treated as "Equipment" rather than citizens.
 - **Racial Trait**: Thermal Core. Immune to Fire damage. Heals when exposed to extreme heat. Water acts as acid to them.
 
@@ -276,7 +276,7 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~28,500,000 (3%)
 - **Primary Regions**: Bastion (North), Aethelgard (Docks).
 - **The Concept**: Massive, bipedal Bear-Folk. They are 7-8 feet tall, covered in thick fur. They are stoic, family-oriented, and terrifyingly strong.
-- **1890s Aesthetic**: They wear "Great Coats" (oversized trench coats), flat caps, and wide trousers held up by suspenders. They usually smoke pipes.
+- **Aesthetic**: They wear "Great Coats" (oversized trench coats), flat caps, and wide trousers held up by suspenders. They usually smoke pipes.
 - **Social Role**: The Muscle. Stevedores (loading ships), Bodyguards, Bouncers, and Shock Troops. They are the "Gentle Giants" of the pub scene until a fight starts.
 - **Racial Trait**: Hibernation Metabolism. Can survive for weeks without food. Resistance to Cold and Bludgeoning damage.
 
@@ -284,7 +284,7 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~19,000,000 (2%)
 - **Primary Regions**: Lunaris, Aethelgard.
 - **The Concept**: Amphibious humanoids with translucent, bioluminescent skin and large dark eyes. They need moisture to survive.
-- **1890s Aesthetic**: They wear "Wet-Suits" made of oiled rubber and carry hydration mist-sprayers. Their fashion involves pearls and coral.
+- **Aesthetic**: They wear "Wet-Suits" made of oiled rubber and carry hydration mist-sprayers. Their fashion involves pearls and coral.
 - **Social Role**: The Mariners. They dominate the shipping trade, pearl diving, and naval warfare. They are often isolationists, sticking to the coasts.
 - **Racial Trait**: Aquatic. Breathe water and air. Swim speed equals run speed.
 
@@ -292,14 +292,14 @@ This document outlines the sentient species of the Surface World, ranked by popu
 - **Population**: ~9,500,000 (1%)
 - **Primary Regions**: Scattered in Urban Rookeries.
 - **The Concept**: High Elves who have lost their connection to nature and magic. They are tall, gaunt, and sickly, often addicted to "Mana-Vapor."
-- **1890s Aesthetic**: Gothic Tragedy. Long black coats, high collars to hide their thin necks, and tinted spectacles (their eyes are sensitive). They look like faded aristocracy.
+- **Aesthetic**: Gothic Tragedy. Long black coats, high collars to hide their thin necks, and tinted spectacles (their eyes are sensitive). They look like faded aristocracy.
 - **Social Role**: The Precision Craftsmen. Despite their frailty, they have the steadiest hands. They are the Watchmakers, Jewelers, and Lens-Grinders.
 - **Racial Trait**: Mana-Sight. Can naturally see magical auras without casting a spell.
 
 ### 9. THE OTHERS (The Fringes)
 - **Population**: ~9,500,000 (1%)
 - **Social Status**: Varied (From Mythic Nobility to Illegal Outcasts).
-These species are divided into four sub-categories based on their origin and standing in the 1890s society.
+These species are divided into four sub-categories based on their origin and standing in society.
 
 #### A. THE HIGH-BLOOD (The Rare Elite)
 Beings of immense power or ancient lineage who hold positions of privilege despite their low numbers.
@@ -578,7 +578,7 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
 ---
 
 ## XIV. THE TECHNOLOGICAL ERA: THE MAGITECH REVOLUTION
-**Tech Level**: Late 19th Century (1890s) Industrial Fantasy.
+**Tech Level**: Late 19th Century Industrial Fantasy.
 
 ### A. WEAPONRY: THE AETHER-CONDUITS
 The era of the sword is fading, but it has not been replaced by gunpowder. It has been replaced by "Projected Will." Violence is now an industry of energy management.
@@ -782,7 +782,7 @@ Because the Gods suppress the "True Wind," weather is semi-artificial and highly
 
 ### 2. FERRUM (The Iron South)
 *"The World’s Workshop"*
-- **Atmosphere**: The "Industrial Revolution" incarnate. Gritty, loud, and energetic. The sky is often grey with smog, and the air tastes of sulfur and coal dust. It feels like 1890s London or Pittsburgh.
+- **Atmosphere**: The "Industrial Revolution" incarnate. Gritty, loud, and energetic. The sky is often grey with smog, and the air tastes of sulfur and coal dust. It feels like Industrial Era London or Pittsburgh.
 - **The Capital: MAGMA-HOLM (The Furnace)**
     - **The Wonder**: A vertical city built inside the caldera of a stabilized volcano. Massive brass pipes pump magma to heat the factories.
     - **The Life**: The rich live on the "Rim" (fresh air), while the poor and Ash-Forged live in the "Pit" (heat and smog).
@@ -1439,7 +1439,7 @@ The Ascenders Guild (HQ in Vance) strictly enforces the "Contract of Neutrality"
 
 #### 7. The Iron Republic of Ferrum (The Factory)
 - **Alignment**: True Neutral / Lawful Evil (Capitalist)
-- **The Vibe**: 1890s Industrial Revolution (Robber Barons).
+- **The Vibe**: Industrial Revolution (Robber Barons).
 - **Role**: The Arsenal. They supply the war.
 - **The Grey**: They view war as a market. They have no morals, only profit margins. They will sell weapons to both sides of a civil war if the price is right.
 
