@@ -44,20 +44,20 @@ Magic is not a class system; it is a "Soul Inscription" system where individuals
 ### 1. The Structure of Power (The Countdown)
 Advancement is measured by the complexity and Density of the Soul. The Ascenders Guild classifies these levels into distinct tiers.
 
-- **Rank 10 - Rank 9 (The Filter / Copper)**: The stage of "Aspirants." They can hold basic Anchor Boons but lack stability. Most quit or die here.
-- **Rank 8 - Rank 7 (The Survivors / Bronze)**: Competent users who have stabilized their Anchor. They are the standard foot-soldiers of the magic world.
-- **Rank 6 - Rank 5 (The Professionals / Iron)**: Users who have successfully opened their second slot ("The Reach"). They possess a "Full Deck" and can combo abilities.
-- **Rank 4 (The Elite / Silver)**: National Assets. They have mastered their Reach slot to perfection.
+- **Rank 10 - Rank 9 (The Filter / Copper)**: The stage of "Aspirants." They have unlocked their Soul Lattice but posses low density. Most struggle to stabilize their Anchor, and attempting a Reach or Greed slot often kills them.
+- **Rank 8 - Rank 7 (The Survivors / Bronze)**: Competent users who have stabilized their Anchor and often utilize a Reach. They are the standard foot-soldiers of the magic world.
+- **Rank 6 - Rank 5 (The Professionals / Iron)**: Users who have mastered the synergy between their slots. They possess a "Full Deck" (Anchor, Reach, and Greed) working in harmony.
+- **Rank 4 (The Elite / Silver)**: National Assets. They have refined their Boons to remove inefficiencies.
 - **Rank 3 (The Heavyweights / Platinum)**: The Threshold of Soul Gravitas. As a soul fills with powerful Boons, it gains metaphysical mass. High-ranking individuals warp reality just by existing (e.g., glass cracks, air thins, weaker beings feel "Primal Dread"). Because of this, they are often forced into isolation.
 - **Rank 2 (The Sovereigns / Gold)**: Walking Natural Disasters.
 - **Rank 1 (True God / Black)**: Complete fusion with an Archetype in Sphere 1.
 
 ### 2. The Rule of Three (Soul Slots)
-At every Rank, an Ascender has 3 Potential Slots to engrave with Boons.
+At every Rank, an Ascender has the potential to fill 3 Slots. However, they must be carved **Sequentially**, and the risk increases exponentially with each step.
 
-1. **The Anchor (Mandatory)**: A stable, standard power required to advance to the next Rank.
-2. **The Reach (Optional)**: A secondary power. Adds strain to the soul.
-3. **The Greed (Dangerous)**: A third power. Extremely high risk of corruption or mutation.
+1. **The Anchor (The Foundation)**: The first slot. Essential for stabilizing the soul at the current Rank. **Risk: Moderate.**
+2. **The Reach (The Extension)**: The second slot. Cannot be carved until the Anchor is stable. Adds significant strain to the soul. **Risk: High.**
+3. **The Greed (The Catalyst)**: The third slot. A volatile power source. **Risk: Extreme.** Most Ascenders avoid this slot as it frequently leads to corruption or death.
 
 ### 3. Methods of Acquisition
 To gain a Boon, one must carve it using one of three methods:
@@ -1010,27 +1010,54 @@ You are not a common brawler to be stained by the mud of the battlefield. You ar
 - **LEGAL WAIVER**: The Order of the Broken Chain is not liable for burns, blindness, or loss of limb due to the misuse of Greed Slots. No refunds on consumed Cores.
 
 ### DOCUMENT 2: THE ARCHIVES OF ORBIS – THE LAWS OF ASCENSION
-**SUBJECT**: The General Protocols of Spirit-Etching  
-**VERSION**: 5.0 (Authorized for Scholarly Review)
+**SUBJECT**: Universal Mechanics of Spirit-Etching and Resonance  
+**VERSION**: 6.0 (Revised)
 
-#### I. SPIRIT ARCHITECTURE: THE TRIAD
-The mortal spirit acts as a Lattice. At every Rank of density, the Lattice expands to generate three "Nodes" capable of holding metaphysical concepts.
-*[Diagram: A circle representing the Soul, divided into three runic segments: The Anchor, The Reach, and The Greed.]*
+#### I. THE RESOURCE: MANA (The Fuel)
+The physical form of mana dictates its utility.
+- **Physical Form**: Ranges from Pearl-sized (Rank 10) to Adult Hand-sized (Rank 5).
+- **Mined Mana (Crystal)**: "Empty" mana. Geometric and pure. Easy to absorb and stabilize. Used for currency and utility.
+- **Monster Mana (Stone)**: "Wild" mana. Rough and irregular. Contains the beast's instinct. Required for *Wild Graft* paths but harder to control.
+- **Ascender Mana (Willed)**: "Heavy" mana. Contains the crystallized ego of the dead Ascender. Absorbing this is taboo and causes spiritual schizophrenia.
 
-- **THE ANCHOR (The Foundation)**
-    - **Nature**: Passive / Constant.
-    - **Function**: Alters the Vessel's biology or physical presence (e.g., "My skin is steel").
-    - **Stability**: High. This Node solidifies the Spirit.
-- **THE REACH (The Extension)**
-    - **Nature**: Active / Toggle.
-    - **Function**: Projects the concept outward (e.g., "I cast a spear of steel").
-    - **Stability**: Moderate.
-- **THE GREED (The Catalyst)**
-    - **Nature**: Burst / High-Risk.
-    - **Function**: Pushes the concept beyond safety limits (e.g., "I detonate my skin for ruin").
-    - **Stability**: Critical. The Spirit naturally resists this Node.
+#### II. SPIRIT ARCHITECTURE: THE PROGRESSION LOOP
+The Soul is not a static container; it is a lattice that must be stretched.
+*The Cycle of Refinement: Stabilize -> Extend -> Saturate -> Breakthrough.*
 
-#### II. THE RITES OF INSCRIPTION (The Methods)
+**1. PHASE 1: STABILIZATION (The Anchor)**
+- **The Node**: **THE ANCHOR** (Passive).
+- **Action**: The Ascender etches a concept that adapts their biology to the element (e.g., "Spark Skin").
+- **Goal**: To filter the raw mana and prevent self-immolation.
+
+**2. PHASE 2: EXTENSION (The Reach)**
+- **The Node**: **THE REACH** (Active).
+- **Action**: The Ascender etches a concept that projects power outward (e.g., "Fire Bolt").
+- **Requirement**: The Anchor must be stable enough to handle the recoil.
+
+**3. PHASE 3: SATURATION (The Cup)**
+The spirit must be filled to 100% capacity.
+- **The Greed Choice**:
+    - **Standard Path**: Cultivate to 100%. Keep the spirit quiet. Prepare for Breakthrough.
+    - **Greed Path**: Etch **THE GREED NODE** (Burst). This grants a 3rd power but makes the spirit "noisy" and turbulent. It *delays* the Breakthrough significantly as the user must stabilize the chaos before they can safely expand.
+
+**4. PHASE 4: THE BREAKTHROUGH (The Stretch)**
+- **Mechanism**: The user cannot advance by eating low-rank cores. They must consume **Rank N+1 Cores**. The higher density is required to physically stretch the lattice to the next size.
+- **Variable Speed**: Transmigrators with adaptable souls can digest these heavy cores faster than natives.
+
+#### III. PERCEPTION OF POWER (The Instinct)
+There are no systems. Ascenders use physical sensation to measure their state.
+- **Saturation**: Feels like "Surface Tension" or a full stomach. Over-absorbing causes nausea.
+- **Rank**: Sensed as "Atmospheric Pressure." High-rank Ascenders make the air feel heavy to weaker ones.
+- **Skills**: Etched nodes result in "Phantom Limb" syndrome. You don't learn the spell; you suddenly "remember" you have a limb that shoots fire.
+
+#### IV. THE LAW OF AUTHORITY (Scarcity = Power)
+**"The Truth is Finite."**
+The Universe has limited bandwidth for concepts.
+- **Saturated Concepts (Fire, Strength)**: Diluted. Millions share the same "River of Truth," making individual power weaker. Safe but competitive.
+- **Rare Concepts (Gravity, Space)**: Concentrated. The river is deep because few drink from it. A Rank 9 Gravity mage can crush a Rank 8 Fire mage simply due to "Weight of Truth."
+- **The Cost**: Rare concepts are mentally corrosive (The mind cannot easily grasp non-Euclidean geometry) and resources are scarce.
+
+#### V. THE RITES OF INSCRIPTION (The Methods)
 Power is not learned; it is etched. There are three known paths to carve a Concept into a Node.
 
 **A. THE GUILD SEAL (The Standard)**
@@ -1054,8 +1081,8 @@ Power is not learned; it is etched. There are three known paths to carve a Conce
 - **The Cost**: Total Servitude.
 - **The Chain**: The God may sever the connection at will. They may also seize the Vessel's body to act as an Avatar.
 
-#### III. THE LADDER OF ASCENSION (The Great Filters)
-The climb is not linear. At specific Ranks, the Cosmology of Orbis imposes specific Barriers.
+#### VI. THE LADDER OF ASCENSION (The Great Filters)
+The climb is not linear. At specific Ranks, the Cosmology of Orbis imposes Barriers.
 
 - **RANK 10 - 7: THE MORTAL TIERS**
     - **The Law**: The Law of Dilution.
@@ -1072,19 +1099,23 @@ The climb is not linear. At specific Ranks, the Cosmology of Orbis imposes speci
     - **The Remedy**: The Mind's Eye Discipline. The user must train their mind to ignore the phantoms. To stare at a Void-Spirit is to invite it to become real.
 
 - **RANK 4: THE ABYSSAL DROSS (The Corruption Barrier)**
-    - **The Law**: The Law of Equivalent Distortion. To enforce Order is to create Chaos.
-    - **The Conflict**: The Duel. Upon inscribing a High-Tier Boon, the spiritual waste is ejected as a physical monster: The Shadow.
-    - **The Rule**: The user must defeat their Shadow alone. If they receive any aid, the Ritual collapses, the materials are consumed, and the Boon fails to take root. The Universe judges the user "Unworthy of the Truth."
+    - **The Law**: Equivalent Distortion.
+    - **The Conflict**: The Shadow. The spiritual waste of the soul manifests as a Doppelganger that uses the Ascender's own powers against them.
 
-- **RANK 3: THE WEB OF ECHOES (The Authority Barrier)**
-    - **The Law**: Truth is finite. There is only one Seat for every Concept.
-    - **The Conflict**: The Network. Upon etching a Concept (e.g., "Speed"), the user becomes a Node. They physically sense the location of every other Rank 3 entity drawing from that same Concept.
-    - **The Burden**: Power is shared. If a rival drains the Concept deeply, the user's power flickers. This creates a society of paranoia and silence, where rivals are hunted to "Consolidate the Flow."
+- **RANK 3: THE RITUAL OF THE CHRYSALIS (The Consensus Siege)**
+    - **The Law**: Collective Belief creates Weight.
+    - **The Trial**: To become a Lord, you must break the "Standard Definition" of your element. You are physically encased in an indestructible statue made of "Perfect Magic" representing the Status Quo.
+    - **The Survival**: You must physically punch or burn your way out using a *Deviant* application of your power. If you cannot prove your magic is unique enough to shatter the norm, you suffocate inside the mold.
 
-- **RANK 2: THE DISSOLUTION (The Reality Barrier)**
-    - **The Law**: The Spirit is denser than the World.
-    - **The Conflict**: Elemental Assimilation. If the user loses focus or sleeps without wards, their body begins to dissolve into their Element (e.g., turning into a storm or a pool of magma).
-    - **The Consequence**: Rank 2 entities cannot dwell in the cities of men. Their mere presence warps the local Weave, crushing mortals by proximity. They are exiled by their own weight.
+- **RANK 2: THE RITUAL OF THE PARASITE (The Somatic Mutiny)**
+    - **The Law**: Power seeks Escape.
+    - **The Trial**: Your Spirit determines it no longer needs your body. It physically mutates parts of your flesh into independent elemental limbs (e.g., a magma-arm that tries to strangle you).
+    - **The Survival**: A body-horror wrestling match. You must physically fight your own rebellious limbs and carve "Binding Runes" into the living flesh to enslave the Titan back to your will.
+
+- **RANK 1: THE RITUAL OF THE WORLD-WEIGHT (The Reality Crush)**
+    - **The Law**: The Universe Rejects the Foreign Object.
+    - **The Trial**: Physics turns hostile. Gravity increases 100-fold; air turns to glass.
+    - **The Survival**: The Pilgrimage. You are dropped in a terraforming "Dead Zone" and must walk 1,000 steps to an Anchor Point. Every step requires you to use Authority to *physically force* the ground to hold you and the air to enter your lungs against the will of the World.
 
 <!-- PART_2_PLACEHOLDER -->
 
