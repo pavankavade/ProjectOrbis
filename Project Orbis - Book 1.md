@@ -17,11 +17,7 @@ I’m freezing, he realized, a spike of genuine fear piercing the confusion. I�
 
 He pushed himself up. The motion was an odyssey of effort. His muscles complained, trembling under the strain of lifting his own torso. His palms slipped on the slime-coated stone, scraping against grit that felt like crushed bone. He locked his elbows, gasping for air that tasted like wet ashes.
 
-He looked down at himself.
-
-He was naked.
-
-The realization hit him with the force of a dousing in ice water. He froze, his breath hitching in a painful spasm. He stared at his own arms, pale and shivering in the gloom. He looked at his legs, streaked with black filth.
+He looked down at himself and the realization hit him with the force of a dousing in ice water. He was naked. He froze, his breath hitching in a painful spasm as he stared at his own arms, pale and shivering in the gloom, and his legs, streaked with black filth.
 
 Naked, his mind echoed, stunned. They took everything. Clothes, ID, phone... dignity. Being naked didn't just mean he was cold; it meant he was prey. It meant the rules of society—the ones that said people wore clothes and had rights—didn't apply here.
 
@@ -29,9 +25,7 @@ Panic flared in his chest—a hot, white spike of animal terror. He forced it do
 
 He opened his eyes fully, forcing them to adjust to the gloom.
 
-He wasn't in a room. He was in a cathedral of waste.
-
-He was kneeling on a narrow stone walkway running along the edge of a massive, subterranean canal. Above him, the ceiling vanished into shadows, but he could make out the curve of immense brick arches, dripping with condensation. Faint, bioluminescent moss—patches of sickly neon green and pale violet—clung to the masonry, providing the only light. It was enough to see the scale of the place. This wasn't a sewer; it was an artery. It was a piece of infrastructure so massive it made the subway tunnels back home look like toys.
+He wasn't in a room. He was in a cathedral of waste. He was kneeling on a narrow stone walkway running along the edge of a massive, subterranean canal. Above him, the ceiling vanished into shadows, but he could make out the curve of immense brick arches, dripping with condensation. Faint, bioluminescent moss—patches of sickly neon green and pale violet—clung to the masonry, providing the only light. It was enough to see the scale of the place. This wasn't a sewer; it was an artery. It was a piece of infrastructure so massive it made the subway tunnels back home look like toys.
 
 To his right, the canal flowed. A sludge-like river of black liquid moved with a deceptive, lazy current. It bubbled occasionally, releasing pockets of gas that shimmered in the moss-light. Chunks of debris floated past: shattered crates, twisted loops of rusted metal, and things that looked disturbingly like bones.
 
@@ -39,23 +33,15 @@ Rudra shivered violently. We're deep, he thought, feeling the heavy pressure of 
 
 He stood up. His knees cracked loudly in the silence. He wrapped his arms around himself, trying to preserve what little body heat remained. He took a step, his bare foot splashing in a puddle of slime. He needed to find an exit. He needed to find high ground.
 
-He looked down the walkway. Ten meters ahead, a rusted iron grate blocked the path. It was massive, the bars as thick as his wrist, welded shut by decades of rust and mineral buildup. Behind him, the walkway crumbled into the black water, a sheer drop into the unknown.
-
-He was trapped.
+He looked down the walkway. Ten meters ahead, a rusted iron grate blocked the path. It was massive, the bars as thick as his wrist, welded shut by decades of rust and mineral buildup. Behind him, the walkway crumbled into the black water, a sheer drop into the unknown. He was trapped.
 
 His mind raced through the terrible options. Swim? No way. That water is toxic sludge; I’d drown or dissolve in minutes. Break the grate? He looked at his shaking hands. I can barely make a fist, let alone bend iron. Wait here? And freeze to death in an hour?
 
-A sound echoed from the darkness ahead, cutting through his despair.
+A sound echoed from the darkness ahead, cutting through his despair. Gurgle. Pop. HISS.
 
-Gurgle. Pop. HISS.
+Rudra froze. The sound hadn't come from the water flow. It had come from displacement. Something massive had broken the surface tension. He turned his head slowly, tracking the noise.
 
-Rudra froze. The sound hadn't come from the water flow. It had come from displacement. Something massive had broken the surface tension.
-
-He turned his head slowly, tracking the noise.
-
-Fifteen meters away, the black mirror of the water was disturbed. Ripples spread out, distorting the reflection of the moss. A shape was rising from the muck.
-
-It started as a bubble, a mound of fluid that refused to obey gravity. It rose higher, coalescing into a trembling, semi-solid mass. It was translucent green, roughly the size of a man, but amorphous, constantly shifting and reshaping itself.
+Fifteen meters away, the black mirror of the water was disturbed. Ripples spread out, distorting the reflection of the moss. A shape was rising from the muck. It started as a bubble, a mound of fluid that refused to obey gravity. It rose higher, coalescing into a trembling, semi-solid mass. It was translucent green, roughly the size of a man, but amorphous, constantly shifting and reshaping itself.
 
 A Slime.
 
@@ -65,171 +51,93 @@ But the smell told a different story. The creature emitted a scent like burning 
 
 Okay, not a game, Rudra thought, the blood draining from his face. That’s acid. Living, walking acid. And it’s hunting.
 
-The Slime didn't have eyes, but it paused. It pulsed, a rhythmic contraction that sent waves of light through its body. It was tasting the air. It was smelling the heat of his blood, the salt of his sweat.
+The Slime didn't have eyes, but it paused. It pulsed, a rhythmic contraction that sent waves of light through its body. It was tasting the air. It was smelling the heat of his blood, the salt of his sweat. Then, it lunged.
 
-It lunged.
-
-Rudra didn't wait to see the mechanics of the attack. He threw himself to the left, crashing into the damp wall.
-
-SPLAT.
-
-A pseudopod of burning green jelly whipped through the space where his chest had been a microsecond before. It struck the stone floor with the sound of a wet towel hitting concrete. The rock hissed, turning black and brittle instantly.
+Rudra didn't wait to see the mechanics of the attack. He threw himself to the left, crashing into the damp wall just as a pseudopod of burning green jelly whipped through the space where his chest had been a microsecond before. It struck the stone floor with the sound of a wet towel hitting concrete—SPLAT—and the rock hissed, turning black and brittle instantly.
 
 Rudra scrambled backward on his hands and feet, crab-walking away from the danger. "No. No, no, no."
 
-The Slime retracted the limb, absorbing the mass back into its main body. It flowed forward. It didn't walk; it poured itself over the uneven ground, moving faster than a human could run in this slippery muck.
+The Slime retracted the limb, absorbing the mass back into its main body. It flowed forward. It didn't walk; it poured itself over the uneven ground, moving faster than a human could run in this slippery muck. Rudra looked around frantically for a weapon. A rock? A stick? A piece of pipe? His hand closed around a loose brick in the wall. He wrenched it free, grit tearing his fingernails.
 
-Rudra looked around frantically for a weapon. A rock? A stick? A piece of pipe?
-
-His hand closed around a loose brick in the wall. He wrenched it free, grit tearing his fingernails.
-
-"Back!" he shouted, his voice cracking. He hurled the brick with everything he had.
-
-The projectile struck the Slime dead center.
-
-Thwack.
+"Back!" he shouted, his voice cracking. He hurled the brick with everything he had. The projectile struck the Slime dead center with a wet thwack.
 
 It sank in. The jelly rippled, accepting the object. The brick floated inside the creature for a second, suspended in the green goo. Then, the acid went to work. Rudra watched, mesmerized and terrified, as the fired clay began to fizz. The brick dissolved like an aspirin in water, turning into a cloud of red silt inside the monster's body.
 
 It ate it, Rudra thought, a cold hollowness opening in his stomach. Hitting it doesn't work. It’s a liquid. You can’t hurt water with a rock.
 
-The Slime surged forward, sensing his desperation. It rose up, forming a crest like a breaking wave, preparing to crash down on him and engulf him completely.
-
-Rudra backed up until his spine hit the rusted iron grate. He was cornered. There was nowhere left to go. The creature loomed over him, a towering wall of death.
+The Slime surged forward, sensing his desperation. It rose up, forming a crest like a breaking wave, preparing to crash down on him and engulf him completely. Rudra backed up until his spine hit the rusted iron grate. He was cornered. There was nowhere left to go. The creature loomed over him, a towering wall of death.
 
 He looked at it. Really looked at it.
 
 Think, dammit. Everything has a weakness. Even monsters made of acid have to work somehow.
 
-In the center of the pulsing green mass, suspended like a fly in amber, was a solid object.
+In the center of the pulsing green mass, suspended like a fly in amber, was a solid object. It was a small, pale nodule that didn't dissolve or move with the rest of the fluid. It was the anchor. The nucleus. The heart, Rudra realized. That’s the pilot.
 
-It was a small, pale nodule. It didn't dissolve. It didn't move with the rest of the fluid. It was the anchor. The nucleus.
-
-The heart, Rudra realized. That’s the pilot.
-
-The Slime began its descent.
-
-Rudra stopped thinking. The analytical voice in his head, which usually provided three options for every scenario, went silent. There was only one option.
-
-He didn't dodge. He pushed off the grate, launching himself forward.
-
-He dove into the attack.
+The Slime began its descent. Rudra stopped thinking. The analytical voice in his head, which usually provided three options for every scenario, went silent. There was only one option. He didn't dodge. He pushed off the grate, launching himself forward. He dove into the attack.
 
 He saw the green wall of acid coming down. He raised his right arm, shaping his hand into a claw, and punched directly into the center of the monster.
 
-THE PAIN.
+THE PAIN was absolute. It wasn't just heat. It was the sensation of unmaking. The acid hit his skin and bypassed the nerves, attacking the muscle directly. He could feel his own cells popping, the proteins unraveling. It felt like sticking his hand into a blast furnace.
 
-It was absolute. It wasn't just heat. It was the sensation of unmaking. The acid hit his skin and bypassed the nerves, attacking the muscle directly. He could feel his own cells popping, the proteins unraveling. It felt like sticking his hand into a blast furnace.
-
-Rudra screamed. It was a sound that tore his vocal cords, a primal shriek of agony that echoed through the tunnels.
-
-But he didn't stop. He couldn't stop. Momentum carried him forward. His hand sheared through the viscous jelly, the resistance thick and rubbery.
+Rudra screamed. It was a sound that tore his vocal cords, a primal shriek of agony that echoed through the tunnels. But he didn't stop. He couldn't stop. Momentum carried him forward. His hand sheared through the viscous jelly, the resistance thick and rubbery.
 
 Deeper, he screamed internally. Grab it! Grab it or die!
 
-His charred fingertips brushed something hard.
+His charred fingertips brushed something hard. He clamped his fingers around it. His grip was weak, his muscles failing as they dissolved, but desperation provided the torque. "GOT YOU!"
 
-He clamped his fingers around it. His grip was weak, his muscles failing as they dissolved, but desperation provided the torque.
+He heaved back, planting his feet in the slime's outer membrane and pulling with his entire body weight. The Slime spasmed. A shockwave of light rippled through it. It tried to contract, to crush his arm, to digest the intruder. But Rudra was faster. With a wet, sickening suck, the core came free.
 
-"GOT YOU!"
+The reaction was immediate. The Slime didn't die; it ceased to be. The magical field holding the liquid in a coherent form evaporated. The terrifying monster splashed onto the walkway, becoming nothing more than a hundred gallons of acidic sludge.
 
-He heaved back, planting his feet in the slime's outer membrane and pulling with his entire body weight.
-
-The Slime spasmed. A shockwave of light rippled through it. It tried to contract, to crush his arm, to digest the intruder.
-
-But Rudra was faster. With a wet, sickening suck, the core came free.
-
-The effect was instantaneous.
-
-The Slime didn't die; it ceased to be. The magical field holding the liquid in a coherent form evaporated. The terrifying monster splashed onto the walkway, becoming nothing more than a hundred gallons of acidic sludge.
-
-Rudra fell backward, splashing into the puddle. He scrambled away, crab-walking through the stinging liquid until he hit the dry stone near the wall.
-
-He cradled his right arm against his chest. It was a ruin. The skin was red, blistered, and peeling away in wet sheets. Blood oozed from a dozen places. The pain was a blinding white noise, a high-pitched ringing in his ears that made him want to pass out.
+Rudra fell backward, splashing into the puddle. He scrambled away, crab-walking through the stinging liquid until he hit the dry stone near the wall. He cradled his right arm against his chest. It was a ruin. The skin was red, blistered, and peeling away in wet sheets. Blood oozed from a dozen places. The pain was a blinding white noise, a high-pitched ringing in his ears that made him want to pass out.
 
 But he couldn't pass out. He was clutching the prize.
 
-He looked at it.
+He looked at it. It was a pearl. It was smaller than he expected, roughly the size of a walnut, jagged and imperfect, glowing with a milky, iridescent light. It was warm. It vibrated against his palm, a low thrum that seemed to bypass his skin and rattle his bones.
 
-It was a pearl. It was smaller than he expected, roughly the size of a walnut, jagged and imperfect, glowing with a milky, iridescent light. It was warm. It vibrated against his palm, a low thrum that seemed to bypass his skin and rattle his bones.
-
-And as he stared at it, he felt... something else.
-
-A pull.
+And as he stared at it, he felt... something else. A pull.
 
 It wasn't hunger, not in his stomach. It was a magnetic drag, a profound, hollow yearning centered in the middle of his chest. His heart beat harder, syncing with the pulse of the pearl. It felt like a missing piece of himself that he hadn't known was gone.
 
 Put it back, a voice whispered in his blood. Connect.
 
-His hand moved on its own. He watched, dazed by pain and exhaustion, as he brought the jagged pearl up. He didn't bring it to his mouth. He pressed it directly against his sternum, right over his heart.
-
-The reaction was immediate.
+His hand moved on its own. He watched, dazed by pain and exhaustion, as he brought the jagged pearl up. He didn't bring it to his mouth. He pressed it directly against his sternum, right over his heart. The reaction was immediate.
 
 The pearl didn't feel solid anymore. As soon as it touched his skin, it softened. It felt like warm wax, then like water. Rudra gasped as the object sank into him. It didn't break the skin; it merged with it, dissolving into his flesh like a drop of ink falling into a glass of water.
 
-A sensation of cool relief washed over him. It wasn't a miracle cure—his arm still throbbed with a dull, heavy ache, and the skin was still angry and red—but the blinding edge of the pain dulled. The bleeding slowed to a trickle.
-
-He took a deep breath, and for the first time since waking up, his lungs didn't spasm. A subtle warmth spread through his limbs. It wasn't an explosion of power, but it was enough. The tremors in his legs stopped. The fog in his brain cleared just enough to focus.
+A sensation of cool relief washed over him. It wasn't a miracle cure—his arm still throbbed with a dull, heavy ache, and the skin was still angry and red—but the blinding edge of the pain dulled. The bleeding slowed to a trickle. He took a deep breath, and for the first time since waking up, his lungs didn't spasm. A subtle warmth spread through his limbs. It wasn't an explosion of power, but it was enough. The tremors in his legs stopped. The fog in his brain cleared just enough to focus.
 
 I can move, he thought, flexing his good hand. I'm not dying. Not yet.
 
 ROOOOOAAAAARRRR.
 
-The sound shook dust from the ceiling.
+The sound shook dust from the ceiling. It came from deep within the pipes, far below where the Slime had come from. This wasn't a gurgle. This was a roar. A predator. A true apex predator. The Slime had just been the scavenger picking at the scraps. Something else was waking up.
 
-It came from deep within the pipes, far below where the Slime had come from. This wasn't a gurgle. This was a roar. A predator. A true apex predator. The Slime had just been the scavenger picking at the scraps. Something else was waking up.
+Rudra scrambled to his feet. He was still hurt, favoring his right arm, but the crushing exhaustion had receded. He felt lighter. He saw a ladder—rusted rungs set into the brickwork—leading up to a heavy iron manhole cover twenty feet above.
 
-Rudra scrambled to his feet. He was still hurt, favoring his right arm, but the crushing exhaustion had receded. He felt lighter.
+He climbed. He gritted his teeth as his burned arm took some of the weight, but he pushed through it, hauling himself up the damp metal. He reached the top, bracing his back against the ladder and pushing up on the iron cover with his good shoulder. He braced himself for a struggle. He expected it to be rusted shut, to require every ounce of leverage he had. Instead, the cover gave way with a smooth, heavy slide.
 
-He saw a ladder—rusted rungs set into the brickwork—leading up to a heavy iron manhole cover twenty feet above.
+Rudra frowned, pushing it aside and hauling himself out. That was easy, he thought, glancing back at the thick slab of iron. Too easy. Adrenaline? Or... He shook his head. No time.
 
-He climbed. He gritted his teeth as his burned arm took some of the weight, but he pushed through it, hauling himself up the damp metal. He reached the top, bracing his back against the ladder and pushing up on the iron cover with his good shoulder.
-
-He braced himself for a struggle. He expected it to be rusted shut, to require every ounce of leverage he had.
-
-Instead, the cover gave way with a smooth, heavy slide.
-
-Rudra frowned, pushing it aside and hauling himself out. That was easy, he thought, glancing back at the thick slab of iron. Too easy. Adrenaline? Or...
-
-He shook his head. No time.
-
-He rolled onto the soft, wet mud of the surface. He scrambled away from the opening, expecting claws to follow him.
-
-Nothing came. The roar faded into the depths.
+He rolled onto the soft, wet mud of the surface. He scrambled away from the opening, expecting claws to follow him. Nothing came. The roar faded into the depths.
 
 He was safe.
 
-He collapsed onto his back, his chest heaving. The cold air felt good now. He closed his eyes, letting the rain wash the sewer filth from his face.
+He collapsed onto his back, his chest heaving. The cold air felt good now. He closed his eyes, letting the rain wash the sewer filth from his face. "Okay," he whispered. "Okay. I'm alive. I'm out. I just need to find a police station. I need to find a phone."
 
-"Okay," he whispered. "Okay. I'm alive. I'm out. I just need to find a police station. I need to find a phone."
+He opened his eyes and looked up at the sky.
 
-He opened his eyes.
+The words died in his throat. The sky was wrong. There were no constellations he recognized. The stars were too thick, too bright, a dense river of diamond dust sprayed across a tapestry of violet nebulas.
 
-He looked up at the sky.
+But it was the moons that broke him. Two moons stared down at him. One was familiar—a large, pale white orb, serene and cratered, hanging low in the west. It looked like the moon he knew, or close enough to lie to himself.
 
-The words died in his throat.
-
-The sky was wrong.
-
-There were no constellations he recognized. The stars were too thick, too bright, a dense river of diamond dust sprayed across a tapestry of violet nebulas.
-
-But it was the moons that broke him.
-
-Two moons stared down at him.
-
-One was familiar—a large, pale white orb, serene and cratered, hanging low in the west. It looked like the moon he knew, or close enough to lie to himself.
-
-But beside it, dominating the eastern horizon, was a nightmare.
-
-A second moon. A jagged, broken shard of a planetoid, glowing with a malevolent, crimson light. It looked like a bleeding wound in the fabric of the cosmos. It pulsed, casting a sickly red pallor over the landscape, turning the mud to blood and the trees to skeletons.
+But beside it, dominating the eastern horizon, was a nightmare. A second moon. A jagged, broken shard of a planetoid, glowing with a malevolent, crimson light. It looked like a bleeding wound in the fabric of the cosmos. It pulsed, casting a sickly red pallor over the landscape, turning the mud to blood and the trees to skeletons.
 
 The Stranger.
 
 Rudra stared at the red moon. The pieces finally clicked into place. The impossible architecture. The slime that defied physics. The pearl that melted into his chest. The sky.
 
-I'm not on Earth, he realized, the thought landing with the weight of a tombstone. None of my rules apply here. I'm alone at the bottom of the food chain.
-
-The analytical mind that had dissected the slime, that had tried to calculate the odds, finally crashed. The adrenaline faded, leaving a hollow, echoing terror.
+I'm not on Earth, he realized, the thought landing with the weight of a tombstone. None of my rules apply here. I'm alone at the bottom of the food chain. The analytical mind that had dissected the slime, that had tried to calculate the odds, finally crashed. The adrenaline faded, leaving a hollow, echoing terror.
 
 Rudra curled into a ball in the alien mud, his naked body shivering under the gaze of the twin moons. He vomited until his stomach was empty, dry heaving into the dirt while the red light washed over him. He had survived the sewer. But looking at that hateful sky, he realized the sewer might have been the safest place for him.
 
@@ -287,11 +195,9 @@ He searched for a match. He found a plastic crate, a coil of rope, a shattered s
 
 The sound was distinct. It wasn't the shifting of trash. It was the crushing of bone.
 
-Rudra froze. The reaction was instant—cortisol flooded his veins, overriding the cold. He dropped into a crouch, blending his grey sack against the grey piles of junk.
+Rudra froze. The reaction was instant—cortisol flooded his veins, overriding the cold. He dropped into a crouch, blending his grey sack against the grey piles of junk. *Source: 20 meters. North-East. Behind the turbine housing.*
 
-*Source: 20 meters. North-East. Behind the turbine housing.*
-
-He held his breath. He peeked around the edge of a rusted engine block.
+He held his breath and peeked around the edge of a rusted engine block.
 
 The creature was gaunt, a nightmare sketched in charcoal and chalk. It stood on two legs, but its posture was all wrong—hunched, spine curved like a question mark, limbs too long and possessing too many joints. Its skin was translucent, pale as a maggot, pulling tight over a skeletal frame. Beneath the skin, a network of veins pulsed with a faint, bioluminescent blue light.
 
@@ -299,47 +205,31 @@ A Wretch.
 
 Rudra had heard the name whispered by the voices in his head—the phantom data of a gamer classifying a new mob. But the reality was visceral as the smell of rot wafted toward him.
 
-The Wretch was digging. It used clawed hands, fingers elongated into bone spades, to tear into a mound of ash. It pulled out a chunk of rusted metal—maybe a gear, maybe a casing—and brought it to its mouth.
+The Wretch was digging. It used clawed hands, fingers elongated into bone spades, to tear into a mound of ash. It pulled out a chunk of rusted metal—maybe a gear, maybe a casing—and brought it to its mouth. *Crunch.* It bit through the iron like it was hardtack. Rudra watched, horrified and mesmerized, as the creature’s jaw unhinged to accommodate the scrap. It wasn't eating for calories; it was eating for minerals. Or maybe the magic in the metal.
 
-*Crunch.*
+The Wretch stopped chewing and froze. Rudra stopped breathing. *It hears my heart.*
 
-It bit through the iron like it was hardtack. Rudra watched, horrified and mesmerized, as the creature’s jaw unhinged to accommodate the scrap. It wasn't eating for calories; it was eating for minerals. Or maybe the magic in the metal.
-
-The Wretch stopped chewing. It froze.
-
-Rudra stopped breathing. *It hears my heart.*
-
-The creature slowly turned its head. It had no nose, just two slits above a lipless mouth. But its eyes were the worst part. They were milky white, cataract-blind, bulging from the sockets.
-
-It sniffed. A long, wet inhalation that rattled in its chest.
+The creature slowly turned its head. It had no nose, just two slits above a lipless mouth. But its eyes were the worst part. They were milky white, cataract-blind, bulging from the sockets. It sniffed, a long, wet inhalation that rattled in its chest.
 
 *Stealth Check. Cover: 80%. Scent: Masked by machine oil.*
 
 The Wretch’s head snapped toward Rudra’s hiding spot. The blind eyes stared right through him. It hissed, a sound like steam escaping a high-pressure valve, revealing rows of needle-teeth stained with rust.
 
-It knows.
+It knows. Rudra gripped his shard of glass. It was a joke, a toy. If that thing charged, he was dead meat.
 
-Rudra gripped his shard of glass. It was a joke. A toy. If that thing charged, he was dead. He was meat.
-
-But the Wretch didn't charge. It lingered for a second, weighing the effort. Then, it turned back to the trash pile. It had calculated the caloric cost of the hunt versus the caloric gain of the meal.
+But the Wretch didn't charge. It lingered for a second, weighing the effort, then turned back to the trash pile. It had calculated the caloric cost of the hunt versus the caloric gain of the meal.
 
 *Verdict: Not worth the calories. I am less valuable than scrap metal.*
 
 The Wretch resumed its digging, tearing into the ground with renewed fervor.
 
-Rudra stayed frozen for a long time, watching the blue veins pulse in the creature's back. He felt a cold sweat break out under his canvas sack, freezing instantly against his skin.
+Rudra stayed frozen for a long time, watching the blue veins pulse in the creature's back. He felt a cold sweat break out under his canvas sack, freezing instantly against his skin. He realized then exactly where he stood. He wasn't the protagonist. He wasn't the Chosen One. In this world, he wasn't even an enemy worth killing. He was background noise. He was Vermin.
 
-He realized then exactly where he stood. He wasn't the protagonist. He wasn't the Chosen One. In this world, he wasn't even an enemy worth killing. He was background noise. He was Vermin.
+He slowly, agonizingly, backed away, step by silent step, retreating until the sound of the crunching metal faded into the wind.
 
-He slowly, agonizingly, backed away. Step by silent step. He retreated until the sound of the crunching metal faded into the wind.
+He collapsed against a wall of tires, his legs finally giving out. He looked at his hands—shaking, smeared with grease and blood. "Survival," he breathed, the word smoking in the cold air. "First you survive. Then you matter."
 
-He collapsed against a wall of tires, his legs finally giving out. He looked at his hands—shaking, smeared with grease and blood.
-
-"Survival," he breathed, the word smoking in the cold air. "First you survive. Then you matter."
-
-He pushed himself up. He wasn't done. He needed water. He needed a weapon that wasn't a piece of glass. He needed to be something other than prey.
-
-He turned his back on the Wretch and walked deeper into the waste. The Red Moon watched him from the heavy, bruised sky, an unblinking eye that promised no mercy.
+He pushed himself up. He wasn't done. He needed water. He needed a weapon that wasn't a piece of glass. He needed to be something other than prey. He turned his back on the Wretch and walked deeper into the waste. The Red Moon watched him from the heavy, bruised sky, an unblinking eye that promised no mercy.
 
 ## Chapter 3: The Wall & The Cost
 
