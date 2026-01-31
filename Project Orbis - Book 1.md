@@ -237,37 +237,109 @@ Welcome to Orbis.
 
 ## Chapter 2: The Scavenger’s Reality
 
-The cold was a physical antagonist, distinct and malicious. It wasn't just a temperature; it was a thief, stealing the heat from his core with every breath. Rudra sat huddled in the lee of a massive, rusted container, his knees pulled to his chest.
+The cold was a physical antagonist. It didn't just exist; it aggressively invaded. It hunted for gaps in his defenses, leeching the precious thermal energy from his core with the efficiency of a parasite.
 
-*Current priority: Thermo-regulation. Secondary priority: Concealment.*
+Rudra huddled in the rusted lee of a crushed shipping container, his knees drawn up to his chest in a desperate attempt to minimize surface area. The metal at his back was freezing, sapping heat through his skin, but it blocked the wind. And the wind was worse. It carried grit—sharp, icy particles of ash and pulverized plastic that scoured exposed flesh like sandpaper.
 
-He was in a junkyard. Not a small landfill, but a geological formation of waste. Mountains of twisted metal, broken gears the size of houses, and shattered masonry stretched to the horizon. The scale was industrial, implying a civilization of massive output.
+*Status Check: Core Temperature dropping. Shivering reflex operating at maximum capacity. Caloric reserves: Critical.*
 
-He needed leverage. He needed tools.
+He squeezed his eyes shut, trying to disassociate from the misery. His body was a machine, and right now, the machine was failing. The warning lights were flashing. Numbness in the extremities. Sluggish cognition. The shivering was so violent his teeth chattered in a staccato rhythm he couldn't control.
 
-He moved through the trash, stepping carefully. His feet were bare, and a cut now would mean infection, which meant death. He scanned the ground, filtering out the noise of the garbage to find the signal of utility.
+"Focus," he whispered, the word lost instantly in the howling gale. "Hypothermia isn't a status effect. It's a countdown."
 
-*Object identified: Canvas sack. Condition: Greasy, torn. Utility: High.*
+He needed insulation. He needed barriers.
 
-He snatched up the heavy fabric, shaking off the dead beetles clinging to it. He cut a hole in the bottom with a sharp shard of glass and pulled it over his head. It was crude, smelling of rancid oil, but it trapped his body heat. A poncho.
+He forced his eyes open. He was in a graveyard of civilizations. The junkyard wasn't just a pile of trash; it was a geological era. Mountains of refuse stretched to the horizon, a chaotic topography of twisted rebar, shattered concrete, and materials he couldn't name. There were gears the size of houses, half-buried in mounds of grey ash. There were pipes wide enough to drive a train through, weeping black ichor into frozen puddles.
 
-He continued his sweep. He found a boot—left foot, heavy leather, steel-toed. He put it on. It was two sizes too big, but it was armor. He found a strip of rubber tire to bind his right foot. Asymmetry. Efficient? No. Sufficient? Barely.
+It was an archeology of waste. And he was the newest fossil.
 
-A hiss stopped him.
+He tried to stand. His legs protested, stiff and woody. He forced them to work, leveraging himself up against the corrugated steel. The vertigo hit him—a sudden, sick tilt of the world—but he locked his knees and rode it out.
 
-Rudra froze, his body locking into a statue-stillness while his eyes darted to the source.
+*Objective: Scavenge. Target: Insulation. Footwear. Weapon.*
 
-Ten meters away, something was digging in a pile of ash. It looked humanoid, but wrong. Its skin was pale, hairless, and translucent enough to show a network of glowing blue veins beneath the surface. It was gaunt, skeletal, yet it moved with a jerky, spasmodic strength. A Wretch.
+He began to move. He picked his way through the debris field with the caution of a bomb disposal unit. Every step was a risk assessment. A jagged piece of rusty iron could mean tetanus. A slip on an oil-slicked plate could mean a broken ankle. In this environment, a broken ankle was a death sentence. It categorized you as "carrion" instead of "scavenger."
 
-The creature paused, lifting its head. It sniffed the air.
+He scanned the ground, his eyes filtering the visual noise. There was too much *stuff*. Broken circuit boards, shattered glass, tangles of copper wire. Useless. All useless. He couldn't wear copper wire.
 
-*Observation: Poor eyesight. Reliance on olfactory and auditory senses. Threat assessment: Unknown capabilities.*
+He spotted something dark half-buried in a pile of grey slag. Texture: Fabric.
 
-Rudra slowly lowered his center of gravity. He had a shard of glass in his hand. It was a pathetic weapon against a monster that chewed industrial ash.
+He scrambled over a mound of crushed masonry, his bare feet bleeding on sharp gravel. He didn't feel the cuts; the cold had numbed his soles to leather. He reached the object and pulled.
 
-The Wretch turned its head, its milky eyes passing over Rudra without focusing. It hissed again, a sound like steam escaping a valve, and went back to digging.
+It resisted, then tore free with a wet ripping sound.
 
-Rudra backed away, step by silent step. He felt the crushing weight of his position. He wasn't the protagonist of a story. He wasn't a hero. He was a naked ape in a poncho, standing in a graveyard of gods, hoping the rats didn't notice him. He was lower than the bottom.
+It was a sack. Heavy canvas, stiff with grease and grime, smelling of rancid machine oil. It had once been an industrial filter bag, perhaps. Now, it was salvation.
+
+*Item Acquired: Heavy Canvas Sack. Quality: Poor. Durability: High.*
+
+Rudra didn't hesitate. He used a sharp shard of obsidian-like glass to saw a jagged hole in the bottom of the sack. He pulled it over his head. The coarse fabric scratched his skin, and the smell of oil was nauseating, but it was *heavy*. It trapped the layer of warm air radiating from his skin. It broke the wind.
+
+"Armor," he muttered. "Level 1 Chestpiece."
+
+He continued his sweep. He needed feet protection. The mud here was freezing, a slurry of ice and chemical waste.
+
+He found a boot ten minutes later. Just one. A massive, leather work boot, steel-toed, lying on its side like a dead animal. He checked inside for spiders or centipedes—caution was a habit now—then shoved his left foot inside. It was three sizes too big. He stuffed the gaps with handfuls of dry grey moss he scraped from a rock.
+
+*Asymmetry,* his mind noted. *One armored foot, one naked. Mobility compromised. Protection increased.*
+
+He searched for a match. He found a plastic crate, a coil of rope, a shattered skull that looked disturbingly human—but no second boot. He settled for a strip of rubber tire, binding it around his right foot with lengths of wire. It was ugly. It clanked when he walked. But it separated his skin from the frozen ground.
+
+*Crunch.*
+
+The sound was distinct. It wasn't the shifting of trash. It was the crushing of bone.
+
+Rudra froze. The reaction was instant—cortisol flooded his veins, overriding the cold. He dropped into a crouch, blending his grey sack against the grey piles of junk.
+
+*Source: 20 meters. North-East. Behind the turbine housing.*
+
+He held his breath. He peeked around the edge of a rusted engine block.
+
+The creature was gaunt, a nightmare sketched in charcoal and chalk. It stood on two legs, but its posture was all wrong—hunched, spine curved like a question mark, limbs too long and possessing too many joints. Its skin was translucent, pale as a maggot, pulling tight over a skeletal frame. Beneath the skin, a network of veins pulsed with a faint, bioluminescent blue light.
+
+A Wretch.
+
+Rudra had heard the name whispered by the voices in his head—the phantom data of a gamer classifying a new mob. But the reality was visceral as the smell of rot wafted toward him.
+
+The Wretch was digging. It used clawed hands, fingers elongated into bone spades, to tear into a mound of ash. It pulled out a chunk of rusted metal—maybe a gear, maybe a casing—and brought it to its mouth.
+
+*Crunch.*
+
+It bit through the iron like it was hardtack. Rudra watched, horrified and mesmerized, as the creature’s jaw unhinged to accommodate the scrap. It wasn't eating for calories; it was eating for minerals. Or maybe the magic in the metal.
+
+The Wretch stopped chewing. It froze.
+
+Rudra stopped breathing. *It hears my heart.*
+
+The creature slowly turned its head. It had no nose, just two slits above a lipless mouth. But its eyes were the worst part. They were milky white, cataract-blind, bulging from the sockets.
+
+It sniffed. A long, wet inhalation that rattled in its chest.
+
+*Stealth Check. Cover: 80%. Scent: Masked by machine oil.*
+
+The Wretch’s head snapped toward Rudra’s hiding spot. The blind eyes stared right through him. It hissed, a sound like steam escaping a high-pressure valve, revealing rows of needle-teeth stained with rust.
+
+It knows.
+
+Rudra gripped his shard of glass. It was a joke. A toy. If that thing charged, he was dead. He was meat.
+
+But the Wretch didn't charge. It lingered for a second, weighing the effort. Then, it turned back to the trash pile. It had calculated the caloric cost of the hunt versus the caloric gain of the meal.
+
+*Verdict: Not worth the calories. I am less valuable than scrap metal.*
+
+The Wretch resumed its digging, tearing into the ground with renewed fervor.
+
+Rudra stayed frozen for a long time, watching the blue veins pulse in the creature's back. He felt a cold sweat break out under his canvas sack, freezing instantly against his skin.
+
+He realized then exactly where he stood. He wasn't the protagonist. He wasn't the Chosen One. In this world, he wasn't even an enemy worth killing. He was background noise. He was Vermin.
+
+He slowly, agonizingly, backed away. Step by silent step. He retreated until the sound of the crunching metal faded into the wind.
+
+He collapsed against a wall of tires, his legs finally giving out. He looked at his hands—shaking, smeared with grease and blood.
+
+"Survival," he breathed, the word smoking in the cold air. "First you survive. Then you matter."
+
+He pushed himself up. He wasn't done. He needed water. He needed a weapon that wasn't a piece of glass. He needed to be something other than prey.
+
+He turned his back on the Wretch and walked deeper into the waste. The Red Moon watched him from the heavy, bruised sky, an unblinking eye that promised no mercy.
 
 ## Chapter 3: The Wall & The Cost
 
@@ -502,266 +574,3 @@ Rudra looked back as they rolled away from Hull. He saw the mud-flats. He saw th
 He touched his chest, where the subtle warmth of the consumed cores still hummed. He wasn't the same man who had fallen out of the sewer pipe. He was harder. He was colder. And he was hungry for more.
 
 
-The cold was a physical antagonist, distinct and malicious. It wasn't just a temperature; it was a thief, stealing the heat from his core with every breath. Rudra sat huddled in the lee of a massive, rusted container, his knees pulled to his chest.
-
-*Current priority: Thermo-regulation. Secondary priority: Concealment.*
-
-He was in a junkyard. Not a small landfill, but a geological formation of waste. Mountains of twisted metal, broken gears the size of houses, and shattered masonry stretched to the horizon. The scale was industrial, implying a civilization of massive output.
-
-He needed leverage. He needed tools.
-
-He moved through the trash, stepping carefully. His feet were bare, and a cut now would mean infection, which meant death. He scanned the ground, filtering out the noise of the garbage to find the signal of utility.
-
-*Object identified: Canvas sack. Condition: Greasy, torn. Utility: High.*
-
-He snatched up the heavy fabric, shaking off the dead beetles clinging to it. He cut a hole in the bottom with a sharp shard of glass and pulled it over his head. It was crude, smelling of rancid oil, but it trapped his body heat. A poncho.
-
-He continued his sweep. He found a boot—left foot, heavy leather, steel-toed. He put it on. It was two sizes too big, but it was armor. He found a strip of rubber tire to bind his right foot. Asymmetry. Efficient? No. Sufficient? Barely.
-
-A hiss stopped him.
-
-Rudra froze, his body locking into a statue-stillness while his eyes darted to the source.
-
-Ten meters away, something was digging in a pile of ash. It looked humanoid, but wrong. Its skin was pale, hairless, and translucent enough to show a network of glowing blue veins beneath the surface. It was gaunt, skeletal, yet it moved with a jerky, spasmodic strength. A Wretch.
-
-The creature paused, lifting its head. It sniffed the air.
-
-*Observation: Poor eyesight. Reliance on olfactory and auditory senses. Threat assessment: Unknown capabilities.*
-
-Rudra slowly lowered his center of gravity. He had a shard of glass in his hand. It was a pathetic weapon against a monster that chewed industrial ash.
-
-The Wretch turned its head, its milky eyes passing over Rudra without focusing. It hissed again, a sound like steam escaping a valve, and went back to digging.
-
-Rudra backed away, step by silent step. He felt the crushing weight of his position. He wasn't the protagonist of a story. He wasn't a hero. He was a naked ape in a poncho, standing in a graveyard of gods, hoping the rats didn't notice him. He was lower than the bottom.
-
-## Chapter 3: The Wall & The Cost
-
-The Great Gate of Hull was less a door and more a statement of dominance. A hundred feet of iron and spell-forged steel, set into a wall that seemed to scrape the sky.
-
-Rudra stood at the edge of the clearing, watching the flow of traffic. Refugees with handcarts, merchants with armed guards, beggars clutching holy symbols.
-
-*Objective: Entry. Obstacle: Border control. Variable: Language barrier.*
-
-He had observed the guards for an hour. They wore grey uniforms with plated armor, carrying baton-like weapons that glowed with a dull, threatening light. They spoke a language that sounded harsh, guttural, full of hard consonants.
-
-He couldn't speak it. Speaking meant revealing he was an outsider. Outsiders were vulnerable.
-
-*Strategy: Feigned disability. The mute beggar.*
-
-He shuffled forward, joining the queue. He kept his head down, shoulders hunched, projecting harmlessness. When he reached the front, the guard barked something at him—a question, sharp and demanding.
-
-Rudra looked up, widening his eyes in a performance of confusion. He pointed to his ears, then to his mouth, shaking his head. He made a soft, guttural noise in his throat.
-
-The guard sighed, the universal expression of a bureaucrat dealing with an inconvenience. He didn't sympathize; he just calculated the effort required to arrest a mute versus ignoring him.
-
-The guard held up two fingers, then tapped a silver coin hanging from his belt.
-
-*The Cost. Two silver units.*
-
-Rudra stared at the coin. He checked his pockets—nonexistent. He turned his empty palms outward. *Insolvency.*
-
-The guard’s face hardened. The transaction was simple: Pay or leave. There was no charity here. The guard shoved him, a casual, brutal push that sent Rudra sprawling into the mud. The line of people behind him laughed—not cruel laughter, just the weary amusement of seeing someone else lose.
-
-A merchant stepped over him, dropping two silver coins into the guard's palm. The gate creaked open for the merchant.
-
-Rudra lay in the mud, watching the warmth and light of the city vanish behind the closing iron doors.
-
-*Lesson learned: Suffering is not currency. Only silver is currency.*
-
-## Chapter 4: The First Week (Montage)
-
-**Day 3**
-The lean-to was a masterpiece of structural improvisation. corrugated iron sheets propped against a boiler, insulated with mud and newspaper. It was ugly, damp, and smelled of rust, but it was dry. Rudra lay inside, listening to the rain hiss against the hot metal of the boiler. He was shivering, but he was alive.
-
-**Day 7**
-Dietary adaptation was brutal. He watched the other scavengers—the "Rat-Folk" he now knew as Muridae. They ate river-weeds and beetles. Rudra tried the weeds. He spent the next twelve hours vomiting bile, his body rejecting the alien flora. *Hypothesis: Gut biome incompatibility. Solution: Build tolerance through micro-dosing.* He ate a smaller leaf. He waited. He kept it down.
-
-**Day 12**
-Language acquisition via immersion. He sat near the gate every day, invisible in the crowd. He cataloged the phonemes.
-*"Stag"* = The silver coin.
-*"Scram"* = Leave immediately.
-*"Beast"* = Monster.
-*"Core"* = The valuable part inside the monster.
-Reference points established. He began to build a mental dictionary, cross-referencing gestures with sounds. He didn't speak a word. He just listened, a spy in plain sight.
-
-**Day 15**
-Physiological metamorphosis. He was changing. The air here was heavy with something—Mana. It wasn't just magic; it was a mutagen. Rudra noticed his night vision was improving. His muscles, despite the malnutrition, felt denser, wire-tight. The core he had eaten in the sewer was the catalyst, but the environment was the fuel. He was evolving to fit the ecosystem.
-
-## Chapter 5: The Tear
-
-**Day 20**
-The air tasted of ozone. The static charge was strong enough to make the hair on Rudra's arms stand up.
-
-He was sorting through a pile of scrap copper when the sky tore open.
-
-It wasn't a portal; it was a wound. A jagged vertical rip in reality, five hundred meters away, leaking a violet, corrupt light. *Stage 1 Tear.* He remembered the term from a guard’s overheard conversation.
-
-Monsters spilled out like lice from a burst seam. "Void-Dogs"—chitinous, hound-like creatures with too many legs and no eyes.
-
-Rudra dove under his rusted boiler, pulling a sheet of metal over the opening. He peered through a crack, heart rate steadying into a combat rhythm.
-
-The City Guards sallied out from the gate. But they weren't alone.
-
-Three figures walked ahead of the line. Ascenders.
-
-Rudra watched, mesmerized. One of them, a woman in leather armor, raised a staff. She didn't chant; she just pointed. A sphere of fire, condensed and white-hot, erupted from the tip, incinerating a pack of Void-Dogs in a flash of thermal violence.
-
-Another Ascender, a man with a massive hammer, charged a dog the size of a car. He swung. The impact didn't just crush bone; it released a shockwave of kinetic force that flattened the mud for twenty feet.
-
-*Analysis: Magic is not mystical. It is physics applied through will. It is energy projection. It is a weapon.*
-
-For the first time since arriving, Rudra felt envy. He didn't just want to survive. He wanted that power.
-
-## Chapter 6: The Stray
-
-The battle ended as quickly as it had begun. The Tear stitched itself restart, leaving only cooling corpses and ozone. The Ascenders retreated to the city, celebrating.
-
-But they were sloppy.
-
-Rudra watched from his hideout. A single Void-Dog, its back leg shattered, had dragged itself into the junk piles. It was limping directly toward his lean-to.
-
-*Threat imminent. options: Evacuate and lose the shelter, or engage.*
-
-He looked at the shelter—his only protection from the freezing nights. He looked at the dog.
-
-He grabbed a piece of rebar he had sharpened against a concrete block.
-
-The dog smelled him. It let out a chittering hiss, lunging with surprising speed for a cripple.
-
-Rudra didn't scream. He stepped INTO the lunge, sacrificing his left forearm to the creature’s jaws. The teeth sank in, hitting the makeshift armor of tire rubber and leather he’d wrapped around his arm. It hurt—a crushing pressure—but it didn't break the bone.
-
-Rudra drove the rebar down. Once. Into the neck. Black ichor sprayed.
-Twice. Into the skull.
-Thrice. Until the creature stopped twitching.
-
-He collapsed, panting, adrenaline dumping into his system.
-
-"Messy."
-
-The voice came from above. Rudra looked up.
-
-A man stood on top of a pile of cars. He was young, handsome in a jagged sort of way, wearing light armor and a bored expression. Kael. Rudra had seen him at the gate. Rank 9 Ascender.
-
-Kael jumped down, landing silently. He looked at the dead dog, then at Rudra’s bloody arm.
-
-"You used yourself as bait," Kael observed, sounding mildly impressed. "Stupid. But effective."
-
-Rudra said nothing. He kept his face blank, his posture submissive but guarded. *The Mute Act.*
-
-Kael drew a knife—a blade that glowed with a faint internal light. With a surgeon’s precision, he carved into the dog’s chest, popping out a small, pellucid marble. A Core.
-
-He tossed it to Rudra. Rudra caught it by reflex.
-
-"Keep it," Kael said, turning away. "Treat that arm. If it rots, you're dead."
-
-## Chapter 7: The Consumption
-
-Night. The hovel was dark, lit only by the faint glow of the core in Rudra’s hand.
-
-*Object: Monster Core (Void-Dog). Value: ~10 Silver Stags. Utility: Medical/Magical.*
-
-He knew he should sell it. Ten Stags could buy entry to the city. It could buy food for a month.
-
-But the hunger was back. That same primal, gnawing emptiness in his chest that he had felt in the sewer. It wasn't a hunger for food; it was a cell-level starvation for energy.
-
-He looked at the core. He remembered the feeling of the fire Ascender, the power of the hammer. Selling this would let him survive as a beggar in the city. Eating it...
-
-*Hypothesis: My body processes cores directly. The first one saved me. This one might strengthen me. Risk: Toxicity. Reward: Evolution.*
-
-He made the choice. He popped the marble into his mouth and bit down. It crunched like hard candy, turning into a hot, bitter liquid.
-
-He swallowed.
-
-The reaction was less violent this time. His body recognized the fuel. The energy flooded his veins, rushing to his injured arm. He watched, fascinated, as the bite wounds from the dog stopped bleeding. The flesh knit together, knitting at a visible rate.
-
-The rush settled into a hum in his chest. He felt... heavier. More solid.
-
-*Assimilation successful. Physical attributes increased. Regeneration confirmed.*
-
-## Chapter 8: The Breakdown
-
-**Day 28**
-The Rat-Folk—the Muridae—were territorial. Rudra had encroached on the "Prime Scavenging Zone" near the river.
-
-He returned to his lean-to to find it tossed. His stash of scrap copper—his savings—was gone.
-
-Standing there was a Muridae scavenger, a large male with scarred fur, holding Rudra’s bag of copper. The Rat sneered, revealing yellow incisors. He pulled a serrated knife.
-
-"Mine now, pink-skin," the Rat hissed in broken Common.
-
-Rudra didn't back down. The fear was gone. The core had burned it away.
-
-*Threat: Armed hostile. Distance: 2 meters. Solution: Neutralize.*
-
-Rudra moved. It wasn't a technique; it was pure stats. He was faster than he should have been. He caught the Rat’s wrist, twisting it with the new strength the core had given him. Bone snapped. The Rat shrieked.
-
-Rudra didn't stop. He slammed the Rat’s head into the rusted side of the boiler.
-*Thud.*
-The Rat slumped.
-*Thud.*
-Silence.
-
-Rudra let go. The body slid to the mud.
-
-He stood there, chest heaving. He looked at his hands. They were covered in blood. Not monster blood. Person blood.
-
-*Analysis: I just killed a sentient being over a bag of copper.*
-
-The logic held, but the morality shattered. He fell to his knees. The cynical shield cracked. He wasn't a gamer. He wasn't a hero. He was a murderer. He curled up in the mud, next to the corpse, and wept silently. The tears felt hot and foreign on his face.
-
-## Chapter 9: The Introduction
-
-**Day 30**
-He couldn't stay. The killing had changed the dynamic. The other scavengers were watching him with fear now. Fear led to preemptive violence.
-
-Rudra washed the blood off in the river. He scrubbed until his skin was raw. He took the bag of copper. He needed a job.
-
-He went to the Gate Market—the bazaar outside the walls where the convoys gathered.
-
-He saw Kael again. The Ascender was shouting at a fat merchant.
-
-"I need twenty porters! The Guild assignment says twenty!"
-
-"Nobody will take the job, ser," the merchant pleaded. "The route goes through the Red Zone. The Stranger is flaring. It's suicide."
-
-Rudra watched. *Opportunity.*
-
-He needed a way out. He needed a sponsor. Kael was desperate.
-
-Rudra walked up. He looked Kael in the eye. He didn't cower.
-
-Kael paused, squinting. "You. The dog-killer."
-
-Rudra nodded. He pointed to the crates the merchant was guarding—heavy crates of ammo. He walked over, grabbed one that took two men to lift, and hoisted it onto his shoulder. He didn't grunt. He held it, staring at Kael.
-
-*Statement: I am strong. I am desperate. I am cheap.*
-
-Kael grinned, a sharp, predatory expression. " mute, strong, and stupid enough to walk into the Red Zone? You're hired."
-
-"Five Silvers," Kael said. "And a Letter of Passage... if you survive."
-
-Rudra nodded. *Accept the contract.*
-
-## Chapter 10: The Departure
-
-The convoy was a beast of iron and magic. Three "Iron-Clads"—massive, rune-etched trucks with solid steel wheels—idled in the assembly yard, their engines humming with a deep, magical bass note.
-
-Rudra stood with the other porters. They looked terrified. Rudra just looked tired.
-
-Captain Vance, a Rank 8 Veteran with a face like a topographic map of scars, walked the line. He stopped in front of Rudra.
-
-"You're the mute?" Vance asked.
-
-Rudra nodded.
-
-"Good. Loud porters die first. Keep your head down, load the batteries, and don't try to be a hero. You're luggage."
-
-Rudra climbed onto the back of the second Iron-Clad. He found a space between two crates of mana-shells.
-
-The engines roared. The convoy lurched forward, clouds of steam and mana-exhaust billowing into the air.
-
-Rudra looked back as they rolled away from Hull. He saw the mud-flats. He saw the spot where his lean-to was. He saw the city walls he had failed to enter.
-
-*Status: Arc 1 Complete. Survival Mode: Disengaged. Travel Mode: Engaged.*
-
-He touched his chest, where the subtle warmth of the consumed cores still hummed. He wasn't the same man who had fallen out of the sewer pipe. He was harder. He was colder. And he was hungry for more.
