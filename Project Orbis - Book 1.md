@@ -149,7 +149,7 @@ The cold was a physical antagonist. It didn't just exist; it aggressively invade
 
 Rudra huddled in the rusted lee of a crushed shipping container, his knees drawn up to his chest in a desperate attempt to minimize surface area. The metal at his back was freezing, sapping heat through his skin, but it blocked the wind. And the wind was worse. It carried grit—sharp, icy particles of ash and pulverized plastic that scoured exposed flesh like sandpaper.
 
-*Status Check: Core Temperature dropping. Shivering reflex operating at maximum capacity. Caloric reserves: Critical.*
+He ran a mental check. Core temperature dropping. Shivering reflex operating at maximum capacity. Caloric reserves were critical.
 
 He squeezed his eyes shut, trying to disassociate from the misery. His body was a machine, and right now, the machine was failing. The warning lights were flashing. Numbness in the extremities. Sluggish cognition. The shivering was so violent his teeth chattered in a staccato rhythm he couldn't control.
 
@@ -163,7 +163,7 @@ It was an archeology of waste. And he was the newest fossil.
 
 He tried to stand. His legs protested, stiff and woody. He forced them to work, leveraging himself up against the corrugated steel. The vertigo hit him—a sudden, sick tilt of the world—but he locked his knees and rode it out.
 
-*Objective: Scavenge. Target: Insulation. Footwear. Weapon.*
+He set his objective: Scavenge. He needed insulation, footwear, and a weapon.
 
 He began to move. He picked his way through the debris field with the caution of a bomb disposal unit. Every step was a risk assessment. A jagged piece of rusty iron could mean tetanus. A slip on an oil-slicked plate could mean a broken ankle. In this environment, a broken ankle was a death sentence. It categorized you as "carrion" instead of "scavenger."
 
@@ -177,7 +177,7 @@ It resisted, then tore free with a wet ripping sound.
 
 It was a sack. Heavy canvas, stiff with grease and grime, smelling of rancid machine oil. It had once been an industrial filter bag, perhaps. Now, it was salvation.
 
-*Item Acquired: Heavy Canvas Sack. Quality: Poor. Durability: High.*
+Item acquired: Heavy Canvas Sack. Quality was poor, but durability seemed high.
 
 Rudra didn't hesitate. He used a sharp shard of obsidian-like glass to saw a jagged hole in the bottom of the sack. He pulled it over his head. The coarse fabric scratched his skin, and the smell of oil was nauseating, but it was *heavy*. It trapped the layer of warm air radiating from his skin. It broke the wind.
 
@@ -187,7 +187,7 @@ He continued his sweep. He needed feet protection. The mud here was freezing, a 
 
 He found a boot ten minutes later. Just one. A massive, leather work boot, steel-toed, lying on its side like a dead animal. He checked inside for spiders or centipedes—caution was a habit now—then shoved his left foot inside. It was three sizes too big. He stuffed the gaps with handfuls of dry grey moss he scraped from a rock.
 
-*Asymmetry,* his mind noted. *One armored foot, one naked. Mobility compromised. Protection increased.*
+Asymmetry, his mind noted. One armored foot, one naked. Mobility compromised, but protection increased.
 
 He searched for a match. He found a plastic crate, a coil of rope, a shattered skull that looked disturbingly human—but no second boot. He settled for a strip of rubber tire, binding it around his right foot with lengths of wire. It was ugly. It clanked when he walked. But it separated his skin from the frozen ground.
 
@@ -195,7 +195,7 @@ He searched for a match. He found a plastic crate, a coil of rope, a shattered s
 
 The sound was distinct. It wasn't the shifting of trash. It was the crushing of bone.
 
-Rudra froze. The reaction was instant—cortisol flooded his veins, overriding the cold. He dropped into a crouch, blending his grey sack against the grey piles of junk. *Source: 20 meters. North-East. Behind the turbine housing.*
+Rudra froze. The reaction was instant—cortisol flooded his veins, overriding the cold. He dropped into a crouch, blending his grey sack against the grey piles of junk. Source: 20 meters. North-East. Behind the turbine housing.
 
 He held his breath and peeked around the edge of a rusted engine block.
 
@@ -211,7 +211,7 @@ The Wretch stopped chewing and froze. Rudra stopped breathing. *It hears my hear
 
 The creature slowly turned its head. It had no nose, just two slits above a lipless mouth. But its eyes were the worst part. They were milky white, cataract-blind, bulging from the sockets. It sniffed, a long, wet inhalation that rattled in its chest.
 
-*Stealth Check. Cover: 80%. Scent: Masked by machine oil.*
+Stealth Check. Cover: 80%. Scent: Masked by machine oil.
 
 The Wretch’s head snapped toward Rudra’s hiding spot. The blind eyes stared right through him. It hissed, a sound like steam escaping a high-pressure valve, revealing rows of needle-teeth stained with rust.
 
@@ -219,7 +219,7 @@ It knows. Rudra gripped his shard of glass. It was a joke, a toy. If that thing 
 
 But the Wretch didn't charge. It lingered for a second, weighing the effort, then turned back to the trash pile. It had calculated the caloric cost of the hunt versus the caloric gain of the meal.
 
-*Verdict: Not worth the calories. I am less valuable than scrap metal.*
+Verdict: Not worth the calories. I am less valuable than scrap metal.
 
 The Wretch resumed its digging, tearing into the ground with renewed fervor.
 
@@ -237,13 +237,13 @@ The Great Gate of Hull was less a door and more a statement of dominance. A hund
 
 Rudra stood at the edge of the clearing, watching the flow of traffic. Refugees with handcarts, merchants with armed guards, beggars clutching holy symbols.
 
-*Objective: Entry. Obstacle: Border control. Variable: Language barrier.*
+Objective: Entry. Obstacle: Border control. Variable: Language barrier.
 
 He had observed the guards for an hour. They wore grey uniforms with plated armor, carrying baton-like weapons that glowed with a dull, threatening light. They spoke a language that sounded harsh, guttural, full of hard consonants.
 
 He couldn't speak it. Speaking meant revealing he was an outsider. Outsiders were vulnerable.
 
-*Strategy: Feigned disability. The mute beggar.*
+Strategy: Feigned disability. The mute beggar.
 
 He shuffled forward, joining the queue. He kept his head down, shoulders hunched, projecting harmlessness. When he reached the front, the guard barked something at him—a question, sharp and demanding.
 
@@ -253,9 +253,9 @@ The guard sighed, the universal expression of a bureaucrat dealing with an incon
 
 The guard held up two fingers, then tapped a silver coin hanging from his belt.
 
-*The Cost. Two silver units.*
+The Cost: Two silver units.
 
-Rudra stared at the coin. He checked his pockets—nonexistent. He turned his empty palms outward. *Insolvency.*
+Rudra stared at the coin. He checked his pockets—nonexistent. He turned his empty palms outward. Insolvency.
 
 The guard’s face hardened. The transaction was simple: Pay or leave. There was no charity here. The guard shoved him, a casual, brutal push that sent Rudra sprawling into the mud. The line of people behind him laughed—not cruel laughter, just the weary amusement of seeing someone else lose.
 
@@ -263,7 +263,7 @@ A merchant stepped over him, dropping two silver coins into the guard's palm. Th
 
 Rudra lay in the mud, watching the warmth and light of the city vanish behind the closing iron doors.
 
-*Lesson learned: Suffering is not currency. Only silver is currency.*
+Lesson learned: Suffering is not currency. Only silver is currency.
 
 ## Chapter 4: The First Week (Montage)
 
@@ -271,7 +271,7 @@ Rudra lay in the mud, watching the warmth and light of the city vanish behind th
 The lean-to was a masterpiece of structural improvisation. corrugated iron sheets propped against a boiler, insulated with mud and newspaper. It was ugly, damp, and smelled of rust, but it was dry. Rudra lay inside, listening to the rain hiss against the hot metal of the boiler. He was shivering, but he was alive.
 
 **Day 7**
-Dietary adaptation was brutal. He watched the other scavengers—the "Rat-Folk" he now knew as Muridae. They ate river-weeds and beetles. Rudra tried the weeds. He spent the next twelve hours vomiting bile, his body rejecting the alien flora. *Hypothesis: Gut biome incompatibility. Solution: Build tolerance through micro-dosing.* He ate a smaller leaf. He waited. He kept it down.
+Dietary adaptation was brutal. He watched the other scavengers—the "Rat-Folk" he now knew as Muridae. They ate river-weeds and beetles. Rudra tried the weeds. He spent the next twelve hours vomiting bile, his body rejecting the alien flora. Hypothesis: Gut biome incompatibility. Solution: Build tolerance through micro-dosing. He ate a smaller leaf. He waited. He kept it down.
 
 **Day 12**
 Language acquisition via immersion. He sat near the gate every day, invisible in the crowd. He cataloged the phonemes.
@@ -305,7 +305,7 @@ Rudra watched, mesmerized. One of them, a woman in leather armor, raised a staff
 
 Another Ascender, a man with a massive hammer, charged a dog the size of a car. He swung. The impact didn't just crush bone; it released a shockwave of kinetic force that flattened the mud for twenty feet.
 
-*Analysis: Magic is not mystical. It is physics applied through will. It is energy projection. It is a weapon.*
+Analysis: Magic is not mystical. It is physics applied through will. It is energy projection. It is a weapon.
 
 For the first time since arriving, Rudra felt envy. He didn't just want to survive. He wanted that power.
 
@@ -317,7 +317,7 @@ But they were sloppy.
 
 Rudra watched from his hideout. A single Void-Dog, its back leg shattered, had dragged itself into the junk piles. It was limping directly toward his lean-to.
 
-*Threat imminent. options: Evacuate and lose the shelter, or engage.*
+Threat imminent. Options: Evacuate and lose the shelter, or engage.
 
 He looked at the shelter—his only protection from the freezing nights. He looked at the dog.
 
@@ -343,7 +343,7 @@ Kael jumped down, landing silently. He looked at the dead dog, then at Rudra’s
 
 "You used yourself as bait," Kael observed, sounding mildly impressed. "Stupid. But effective."
 
-Rudra said nothing. He kept his face blank, his posture submissive but guarded. *The Mute Act.*
+Rudra said nothing. He kept his face blank, his posture submissive but guarded. The Mute Act.
 
 Kael drew a knife—a blade that glowed with a faint internal light. With a surgeon’s precision, he carved into the dog’s chest, popping out a small, pellucid marble. A Core.
 
@@ -355,7 +355,7 @@ He tossed it to Rudra. Rudra caught it by reflex.
 
 Night. The hovel was dark, lit only by the faint glow of the core in Rudra’s hand.
 
-*Object: Monster Core (Void-Dog). Value: ~10 Silver Stags. Utility: Medical/Magical.*
+Object: Monster Core (Void-Dog). Value: ~10 Silver Stags. Utility: Medical/Magical.
 
 He knew he should sell it. Ten Stags could buy entry to the city. It could buy food for a month.
 
@@ -363,7 +363,7 @@ But the hunger was back. That same primal, gnawing emptiness in his chest that h
 
 He looked at the core. He remembered the feeling of the fire Ascender, the power of the hammer. Selling this would let him survive as a beggar in the city. Eating it...
 
-*Hypothesis: My body processes cores directly. The first one saved me. This one might strengthen me. Risk: Toxicity. Reward: Evolution.*
+Hypothesis: My body processes cores directly. The first one saved me. This one might strengthen me. Risk: Toxicity. Reward: Evolution.
 
 He made the choice. He popped the marble into his mouth and bit down. It crunched like hard candy, turning into a hot, bitter liquid.
 
@@ -373,7 +373,7 @@ The reaction was less violent this time. His body recognized the fuel. The energ
 
 The rush settled into a hum in his chest. He felt... heavier. More solid.
 
-*Assimilation successful. Physical attributes increased. Regeneration confirmed.*
+Assimilation successful. Physical attributes increased. Regeneration confirmed.
 
 ## Chapter 8: The Breakdown
 
@@ -388,7 +388,7 @@ Standing there was a Muridae scavenger, a large male with scarred fur, holding R
 
 Rudra didn't back down. The fear was gone. The core had burned it away.
 
-*Threat: Armed hostile. Distance: 2 meters. Solution: Neutralize.*
+Threat: Armed hostile. Distance: 2 meters. Solution: Neutralize.
 
 Rudra moved. It wasn't a technique; it was pure stats. He was faster than he should have been. He caught the Rat’s wrist, twisting it with the new strength the core had given him. Bone snapped. The Rat shrieked.
 
@@ -402,7 +402,7 @@ Rudra let go. The body slid to the mud.
 
 He stood there, chest heaving. He looked at his hands. They were covered in blood. Not monster blood. Person blood.
 
-*Analysis: I just killed a sentient being over a bag of copper.*
+Analysis: I just killed a sentient being over a bag of copper.
 
 The logic held, but the morality shattered. He fell to his knees. The cynical shield cracked. He wasn't a gamer. He wasn't a hero. He was a murderer. He curled up in the mud, next to the corpse, and wept silently. The tears felt hot and foreign on his face.
 
@@ -431,13 +431,13 @@ Kael paused, squinting. "You. The dog-killer."
 
 Rudra nodded. He pointed to the crates the merchant was guarding—heavy crates of ammo. He walked over, grabbed one that took two men to lift, and hoisted it onto his shoulder. He didn't grunt. He held it, staring at Kael.
 
-*Statement: I am strong. I am desperate. I am cheap.*
+Statement: I am strong. I am desperate. I am cheap.
 
 Kael grinned, a sharp, predatory expression. " mute, strong, and stupid enough to walk into the Red Zone? You're hired."
 
 "Five Silvers," Kael said. "And a Letter of Passage... if you survive."
 
-Rudra nodded. *Accept the contract.*
+Rudra nodded. Accept the contract.
 
 ## Chapter 10: The Departure
 
@@ -459,7 +459,7 @@ The engines roared. The convoy lurched forward, clouds of steam and mana-exhaust
 
 Rudra looked back as they rolled away from Hull. He saw the mud-flats. He saw the spot where his lean-to was. He saw the city walls he had failed to enter.
 
-*Status: Arc 1 Complete. Survival Mode: Disengaged. Travel Mode: Engaged.*
+Status: Arc 1 Complete. Survival Mode: Disengaged. Travel Mode: Engaged.
 
 He touched his chest, where the subtle warmth of the consumed cores still hummed. He wasn't the same man who had fallen out of the sewer pipe. He was harder. He was colder. And he was hungry for more.
 

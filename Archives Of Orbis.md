@@ -441,6 +441,13 @@ These are the immutable laws that govern the interaction between the Spheres and
     - **Obscurity is Power**: Standard "Army Issue" magic is reliable but weak because thousands of soldiers are drinking from the same stream. To become a High Ascender, you must find a unique, forgotten variation so you own 100% of that concept's power.
     - **Heretic Hunting**: If you meet someone with your exact build, you have a primal urge to kill them. By killing them, you reclaim the "flow" they were stealing, instantly making your own magic more potent.
 
+### 4. THE LAW OF INTUITIVE RESONANCE (The Pathfinder's Instinct)
+*"To choose a path is to be haunted by the road not taken... until you find the right one."*
+- **The Mechanism**: Upon cementing the first Rank 10 Anchor (Foundation Slot), the soul broadcasts a "Call" for compatible future power. The user gains a subconscious radar for Synergistic Ingredients.
+- **The Narrative Consequence**:
+    - **The Tug**: A Wind-elemental anchor will make the user feel physically nauseous if they consider picking up an Earth-based Reach. Conversely, they will feel a "magnetic pull" toward high-altitude environments or ingredients.
+    - **The Trap of Convenience**: The instinct warns against settling. If a user is about to consume a "Good Enough" core, their gut will scream at them to wait. This separates the patient Elites (who build perfect decks) from the desperate masses (who just want power now).
+
 ---
 
 ## IX. THE FINAL TRUTH: THE SECRET CHRONICLE
