@@ -228,7 +228,7 @@ Banks are not just vaults; they are Refineries.
 ## VI. RACES
 **RACIAL COMPENDIUM (v4.0)**
 - **Status**: Finalized Demographic Census
-- **Era**: The Age of Silence (Year 3E 1625)
+- **Era**: The Age of Silence (Year 3E 2026)
 - **Total Global Population**: Approx. 950,000,000
 
 This document outlines the sentient species of the Surface World, ranked by population density. It reflects the current Industrial Magitech era, where biology dictates one’s role in the Great Machine of society.
@@ -474,11 +474,33 @@ For a while, the Architect was content to let the "Usurpers" keep the broken wor
 
 ### 3. THE ANCHORS
 The Architect cannot enter Orbis directly (The Blockade is still up), and He cannot destroy Orbis (it would destabilize the cosmos). He needs a vessel.
-- **The Selection**: He takes a souls from Forging 2 (The Iron Realm).
+- **The Selection**: He takes souls from Forging 2 (The Iron Realm / Earth).
 - **Why an Iron Soul?**
     - Orbis souls are built on "Wild Essence" (volatile, prone to corruption).
     - Iron souls are built on "Stilled Essence" (optimized, resistant to change).
 - **The Mission**: These souls are Living Anchors. They are sent into the "Old World" to force it to submit to Order.
+
+#### THE LOST ANCHORS ROSTER (Chronological Order)
+*Historical records of Earth-Souls confirmed by the Guild's "Archive of Origins."*
+
+| Timeline | Name & Origin | Earth Archetype | The Disappearance / Mystery | Orbis Legacy |
+| --- | --- | --- | --- | --- |
+| **~2600 BC** | **Gilgamesh** (Sumer) | The Tyrant King | Failed his quest for immortality. Legend says he died returning to Uruk, but his tomb was never found. | **The First Fail-State.** He became the "King of Heroes," establishing the concept of the *Ascender*. His failure to find immortality led to the creation of the first *Mana Core* technique. |
+| **~1750 BC** | **Hammurabi** (Babylon) | The Lawgiver | His empire crumbled immediately after his death, and his Law Code stele was looted. | **The Judge.** He inscribed the *First Laws of Magic* onto the world itself, creating the "Contracts" that bind spirits and men. |
+| **~1458 BC** | **Hatshepsut** (Egypt) | The Female King | Her successor attempted to erase her from history, chiseling her name off every monument. | **The Gilded Pharaoh.** She founded the *Golden Trade Routes* of Aurelia, teaching humans how to manipulate economy as a form of magic. |
+| **~930 BC** | **King Solomon** (Israel) | The Wise Summoner | His death was recorded, but his legendary artifacts—the **Ring** and the **Key**—vanished. | **The Binder.** He was the first to map *Sphere 3 (The Spirit Echo)*, creating the system of Demon-Binding that Warlocks use today. |
+| **~500 BC** | **Valmiki** (India) | The Sage / Poet | The bandit-turned-sage who wrote the *Ramayana*. He simply faded into the forests of legend. | **The Voice.** He introduced *Sanskrit* as a High-Language, a magical tongue that stirs nature. Its "Normal" version is one of the prominent languages of Orbis. He is still alive, dwelling in the deep forests of Veridia as the "Primeval Sage." |
+| **323 BC** | **Alexander the Great** (Macedonia) | The Conqueror | Died of a mysterious illness at 32. His body was hijacked and his tomb lost. | **The Golden King.** He brought the "Golden Age" of conquest. His spirit is said to be the patron of the *Sun King* lineage in Aurelia. |
+| **210 BC** | **Qin Shi Huang** (China) | The Immortal Emperor | Died creating the Elixir of Life. His massive tomb is sealed by rivers of mercury. | **The Wall-Builder.** He founded the defensive philosophies of Bastion. Legend says he didn't die but became a Lich-Emperor in the far East. |
+| **12 BC** | **Marcus Agrippa** (Rome) | The General | The true architect of Rome. Died suddenly at 51, leaving his work to Augustus. | **The Architect.** He is the true founder of the *Ascenders Guild*. He built the first Guild Hall and established the "Order of the Broken Chain" to organize humanity against monsters. |
+| **61 AD** | **Boudica** (Britain) | The Rebel Queen | Led a massive uprising. Her body was never found after her defeat. | **The Fury.** She is the patron saint of the *Berserkers* in the barbaric North. Her rage manifested as the "Red Mist" combat art. |
+| **415 AD** | **Hypatia** (Alexandria) | The Mathematician | Murdered by a mob. Her remains were scattered and burned. | **The Scholar.** Her shade haunts the *Arcanum Libraries*. She whispers the secrets of "Sacred Geometry" (Rank 3 Magic) to worthy students. |
+| **1227 AD** | **Genghis Khan** (Mongolia) | The Great Khan | Died during a campaign. His burial site remains the world's greatest mystery. | **The Demon King.** He was the King of Xylos. He betrayed the Guild to restart his conquest, but his ambition triggered a Tier 3 Tear. The Abyss consumed him, turning him into a Demon Lord who now rules the *Wild South*. |
+| **1433 AD** | **Zheng He** (China) | The Admiral | Vanished during his seventh voyage. His tomb is empty. | **The Navigator.** He charted the *Outer Seas* and established the Aethelgard Trade Federation. He is the reason the seas are navigable despite the monsters. |
+| **1582 AD** | **Oda Nobunaga** (Japan) | The Demon Lord | Betrayed at Honno-ji. His body was never found in the burning temple. | **The Ash-Shogun.** He introduced "Total War" concepts to Ferrum. It is rumored he is the one who invented *Gunpowder* (now replaced by Magitech) before disappearing into the Abyss. |
+| **1890 AD** | **Louis Le Prince** (France) | The Inventor | Vanished from a train. Neither he nor his luggage were ever seen again. | **The Illusionist.** He unlocked *Sphere 3 Visuals*, creating the first "Memory Crystals" that allow people to record and replay history. |
+| **1913 AD** | **Rudolf Diesel** (Germany) | The Engineer | Vanished from a steamship. His bed was never slept in. | **The Engine-Father.** He revolutionized Ferrum by designing the *Mana-Combustion Engine*, allowing for the creation of tanks and airships. |
+| **1937 AD** | **Amelia Earhart** (USA) | The Aviator | Vanished over the Pacific. No trace of her or the plane found. | **The Sky-Walker.** She was the first human to tame a *Wind Spirit* without a contract. She founded the "Sky-Knight" corps of Aurelia. |
 
 ---
 
@@ -558,7 +580,7 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
 ---
 
 ## XIII. CHRONICLES OF THE THIRD EPOCH (The Age of Silence)
-**Current Date**: Year 1625 of the Silence (3E 1625).
+**Current Date**: Year 2026 of the Silence (3E 2026).
 
 ### 1. THE FOUNDATION ERA (Years 0 - 300)
 - **Year 0**: The Great Truce.
@@ -577,10 +599,10 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
 - **Year 1143 (The Fall)**: A Stage 2 Gate opens. Without the Guild, it becomes a Stage 3 Scar. Xylos is destroyed and becomes "The Wild South."
 - **The Lesson**: "Kings rule the land, but the Guild rules the reality."
 
-### 4. THE MODERN ERA (Years 1146 - 1625)
+### 4. THE MODERN ERA (Years 1146 - 2026)
 - **Year 1300**: Human Core Prohibition enacted.
 - **Year 1590**: The Stagnation Crisis. No new major cities founded.
-- **Year 1625 (Present Day)**: Abyssal Tears are occurring daily. The Guild predicts a Global Breach.
+- **Year 2026 (Present Day)**: Abyssal Tears are occurring daily. The Guild predicts a Global Breach.
 
 ---
 
@@ -1334,6 +1356,19 @@ Language in Orbis is not just a means of communication; it is a measure of close
     - Naval commands.
     - **Sample Phrase**: "The stone sleeps, but the winter wakes."
 
+### V. THE PRIMAL BRANCH: SANSKRIT (The Breath of the World)
+*"To speak is to weave."*
+- **Status**: Regional High-Language / Sacred (20% of Population).
+- **Primary Region**: Veridia, The Eastern Schools of Arcanum, and Traditionalist Sects.
+- **Origins**: Introduced by the Anchor Valmiki. It is not a language of "Command" like Draconic, but of "Resonance."
+- **The Concept**: Words are chosen not for meaning, but for vibrational frequency. Speaking Sanskrit correctly physically vibrates the mana in the air, urging nature to grow or heal.
+- **The Vibe**: Vedic Chants / Mantras. Rhythmic, heavy, and booming.
+- **Use Case**:
+    - **Druidic Rituals**: Used to accelerate crop growth in Aurelia (The "Harvest Chants").
+    - **Healing**: Medical mantras used in Bulwark hospitals to knit bone.
+    - **Meditation**: Used by Monks to stabilize their Core Density.
+    - **Sample Phrase**: "*Om Shanti*" (Peace be upon the disturbed spirit).
+
 #### Summary Visualization
 | Language | Origin | Used By | Vibe | Gameplay Function |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1341,6 +1376,7 @@ Language in Orbis is not just a means of communication; it is a measure of close
 | **Imperial** | The Law | Humans, Dvar | Formal / Bureaucratic | Standard. Used for quests, lore books, and talking to nobles. |
 | **Ferro** | The Forge | Rats, Ash-Forged | Gritty / Fast | Tech. Used for deciphering machines, unlocking doors, and talking to the underground. |
 | **Sylvic** | The Wild | Geodin, Ursine | Tonal / Ancient | Nature. Used for finding hidden paths, ancient ruins, and talking to "monstrous" races. |
+| **Sanskrit** | The Anchor Valmiki | Monks, Healers, Aurelian Farmers | Rhythmic / Holy | Resonance. Used for healing, buffing allies, and controlling plant life. |
 
 ---
 
