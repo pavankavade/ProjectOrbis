@@ -98,16 +98,16 @@ To gain a Boon, one must carve it using one of three methods:
 The geopolitical heart of Orbis, where the major deities hold sway.
 
 #### Aurelia (The Golden West)
-- **Patron**: Solaris (The Sun King).
+- **Patron**: Aurelian (The Restorer).
 - **Domain**: Agriculture, Harvest, Light.
 - **Geography**: The "Breadbasket of the World." Endless golden wheat fields and eternal sunlight in the core provinces.
 - **Key Feature**: The Sun Spire (Capital Sanctum). It controls the weather and creates an "Eternal Noon."
 
 #### Ferrum (The Iron South)
-- **Patron**: Vulcanis (The Forge Father).
-- **Domain**: Industry, Craft, Fire.
-- **Geography**: A jagged peninsula of smog, active volcanoes, and factories.
-- **Key Feature**: The Great Furnace (Artificial Volcano).
+- **Patron**: Qin Shi Huang (The Dragon Emperor).
+- **Domain**: Industry, Fire, Walls, Order.
+- **Geography**: A jagged peninsula of smog, active volcanoes, and factories, separated from the Wild South by the **Great Iron Wall**.
+- **Key Feature**: The Terracotta Expanse (The Infinite Army).
 
 #### Valoria (The Heartland)
 - **Patron**: Bellum (The Strategist).
@@ -267,9 +267,9 @@ This document outlines the sentient species of the Surface World, ranked by popu
 ### 5. THE ASH-FORGED (The Cinder-Kin)
 - **Population**: ~47,500,000 (5%)
 - **Primary Regions**: Ferrum (The Iron South).
-- **The Concept**: Artificial lifeforms sculpted from clay and fueled by an internal "Heart-Fire." They look like cracked grey statues with magma glowing beneath the skin. They emit constant heat.
+- **The Concept**: Originally the "Terracotta Army" of Qin Shi Huang. They are artificial lifeforms sculpted from clay and fueled by an internal "Heart-Fire." They look like cracked grey statues with magma glowing beneath the skin.
 - **Aesthetic**: They often wear heavy iron containment suits to prevent setting furniture on fire. In the factories, they work naked, their skin glowing white-hot.
-- **Social Role**: The Living Engines. They work the hazardous jobs: inside blast furnaces, handling radioactive mana-waste, and powering boilers. They are often treated as "Equipment" rather than citizens.
+- **Social Role**: The Eternal Sentinels. They work the hazardous jobs: inside blast furnaces, handling radioactive mana-waste, and guarding the Great Iron Wall. They are often treated as "Equipment" rather than citizens.
 - **Racial Trait**: Thermal Core. Immune to Fire damage. Heals when exposed to extreme heat. Water acts as acid to them.
 
 ### 6. THE URSINE (The Great-Coats)
@@ -491,9 +491,9 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
 | **~930 BC** | **King Solomon** (Israel) | The Wise Summoner | His death was recorded, but his legendary artifacts—the **Ring** and the **Key**—vanished. | **The Binder.** He was the first to map *Sphere 3 (The Spirit Echo)*, creating the system of Demon-Binding that Warlocks use today. |
 | **~500 BC** | **Valmiki** (India) | The Sage / Poet | The bandit-turned-sage who wrote the *Ramayana*. He simply faded into the forests of legend. | **The Voice.** He introduced *Sanskrit* as a High-Language, a magical tongue that stirs nature. Its "Normal" version is one of the prominent languages of Orbis. He is still alive, dwelling in the deep forests of Veridia as the "Primeval Sage." |
 | **323 BC** | **Alexander the Great** (Macedonia) | The Conqueror | Died of a mysterious illness at 32. His body was hijacked and his tomb lost. | **The Golden King.** He brought the "Golden Age" of conquest. His spirit is said to be the patron of the *Sun King* lineage in Aurelia. |
-| **210 BC** | **Qin Shi Huang** (China) | The Immortal Emperor | Died creating the Elixir of Life. His massive tomb is sealed by rivers of mercury. | **The Wall-Builder.** He founded the defensive philosophies of Bastion. Legend says he didn't die but became a Lich-Emperor in the far East. |
+| **210 BC** | **Qin Shi Huang** (China) | The Dragon Emperor | Ascended to the Celestial Lattice. | **The Forge Father.** He is now worshipped as the God of Ferrum. He created the *Ash-Forged* (Terracotta Army) and built the **Great Iron Wall** to seal the Abyss-tainted south. |
 | **12 BC** | **Marcus Agrippa** (Rome) | The General | The true architect of Rome. Died suddenly at 51, leaving his work to Augustus. | **The Architect.** He is the true founder of the *Ascenders Guild*. He built the first Guild Hall and established the "Order of the Broken Chain" to organize humanity against monsters. |
-| **61 AD** | **Boudica** (Britain) | The Rebel Queen | Led a massive uprising. Her body was never found after her defeat. | **The Fury.** She is the patron saint of the *Berserkers* in the barbaric North. Her rage manifested as the "Red Mist" combat art. |
+| **275 AD** | **Aurelian** (Rome) | The Restorer | Betrayed by his officers. His soul ascended to the vacant Sun Throne. | **The Sun King.** He restored the fractured Golden West and established the *Sol Invictus* dogma. He enforces "Public Virtue" and Order as the Patron of Aurelia. |
 | **415 AD** | **Hypatia** (Alexandria) | The Mathematician | Murdered by a mob. Her remains were scattered and burned. | **The Scholar.** Her shade haunts the *Arcanum Libraries*. She whispers the secrets of "Sacred Geometry" (Rank 3 Magic) to worthy students. |
 | **1227 AD** | **Genghis Khan** (Mongolia) | The Great Khan | Died during a campaign. His burial site remains the world's greatest mystery. | **The Demon King.** He was the King of Xylos. He betrayed the Guild to restart his conquest, but his ambition triggered a Tier 3 Tear. The Abyss consumed him, turning him into a Demon Lord who now rules the *Wild South*. |
 | **1433 AD** | **Zheng He** (China) | The Admiral | Vanished during his seventh voyage. His tomb is empty. | **The Navigator.** He charted the *Outer Seas* and established the Aethelgard Trade Federation. He is the reason the seas are navigable despite the monsters. |
