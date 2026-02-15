@@ -393,21 +393,12 @@ Because these races have different needs, the Cities of Orbis are built Vertical
     - **Environment**: A maze of pipes, tunnels, and subways. Warm, humid, and dark.
     - **Function**: Waste processing, Power generation, Black Markets.
 
-### D. THE ABERRANT EVOLUTIONS (The Mutated)
-*Races twisted by magical anomalies. Feared and hated.*
-
-- **9. The Umbral (The Faceless)**
-    - **Origin**: Descended from humans trapped in Sphere 3 (The Spirit Echo) who phased back into reality.
-    - **Appearance**: Their features are blurred like a smear on a photograph. They have no face unless they focus their will.
-    - **Home Region**: Nyxia (Native).
-    - **Status**: Illegal / Kill-on-Sight. Due to their natural stealth, they are banned in Aurelia, Arcanum, and Ferrum. They are legally allowed only in Nyxia (their home) and Valoria (where they work as state-sanctioned assassins/spies).
-    - **Affinity**: Stealth & Illusion. If an Umbral stands still, they naturally erase themselves from the observer's attention.
 
 ### E. THE FRINGE & MAINSTREAM ADDITIONS (New Entries)
 - **The Myrmidon (Hive-Kin)**: Four-armed insectoid warriors from the Outer Lands, prized in Valoria as shock troops for their lack of individual fear and telepathic coordination.
 - **The Ursine (Bear-Folk)**: Massive, furred juggernauts native to Bastion who can enter a "Battle Hibernation" to ignore fatal wounds and pain for short durations.
 - **The Vitruvian (Glass-Skins)**: Rare scholars from Arcanum with translucent, prism-like skin that can naturally refract light and deflect low-tier magical projectiles.
-- **The Ogre-Magi (The Gemini)**: Two-headed giants possessing two distinct souls, allowing them to hold two "Anchor Slots" and cast conflicting elements simultaneously.
+- **The Ogre-Magi (The Gemini)**: Two-headed giants. They are often used as guards in the Undercity.
 - **The Ophidians (Serpent-Born)**: Snake-tailed alchemists from the southern jungles who are immune to all toxins and naturally secrete venom from their fangs.
 - **The Astrals (Star-Touched)**: Extremely rare albinos born in Aeterna whose hair floats in zero-gravity and who possess a natural intuition for Prophecy magic.
 - **The Wretches (Dust-Eaters)**: Mutated, hairless humans with glowing veins who live in industrial slums and are hired to eat/absorb hazardous magical waste.
@@ -709,8 +700,8 @@ This is knowledge that fundamentally breaks the social, religious, or physical l
 - **The Schism**: Consuming them causes mental pollution. The voices of the dead linger in your mind. Eating too many (or one too strong) causes insanity or personality overwrite.
 
 ### World Consequence
-- **Cremation Law**: It is mandatory to burn bodies to destroy the core and prevent harvesting.
-- **Grave-Breakers**: Criminals who dig up fresh bodies to sell cores on the black market.
+- **Burial Protocols**: Funeral rites vary by nation (e.g., Aurelians burn, Valorians bury), but the Guild mandates that all bodies must have their **Core Extracted** and be **Purified** before final rest to prevent harvesting or contamination.
+- **Grave-Breakers**: Criminals who hunt for unregistered graves or battlefield dead that bypassed the Guild's extraction teams, searching for intact cores before they rot.
 - **War**: Soldiers aim for the gut to shatter the core, denying the enemy the "loot."
 
 ---
@@ -720,7 +711,7 @@ This is knowledge that fundamentally breaks the social, religious, or physical l
 ### 1. MISSION & ORIGIN
 - **Formal Name**: The Order of the Broken Chain.
 - **Purpose**: To act as the "Immune System" of Orbis. Since Gods cannot enter lower spheres, the Guild culls Monsters, closes Gates, and manages the Mana economy.
-- **History**: Founded in Epoch 2 by Human Heroes to hunt surviving Progenitors.
+- **History**: Formalized in 12 BC by Marcus Agrippa to standardize the chaos of the Age of Heroes.
 
 ### 2. THE THREAT: ABYSSAL PHENOMENA
 - **Stage 1: The Tear (The Weeping)**: Momentary fractures releasing small monsters. **Response**: Suppression.
@@ -764,27 +755,27 @@ This is knowledge that fundamentally breaks the social, religious, or physical l
 ## XIII. CHRONICLES OF THE THIRD EPOCH (The Age of Silence)
 **Current Date**: Year 2026 of the Silence (3E 2026).
 
-### 1. THE FOUNDATION ERA (Years 0 - 300)
+### 1. THE FOUNDATION ERA (12 BC - 1000 AD)
+- **12 BC**: The Guild’s Inception (Marcus Agrippa).
 - **Year 0**: The Great Truce.
-- **Year 42**: Founding of Aurelia.
-- **Year 150**: Founding of Valoria.
-- **Year 188**: The Guild’s Inception.
+- **275 AD**: Founding of Aurelia (Aurelian).
+- **800 AD**: Founding of Valoria (Charlemagne).
 
-### 2. THE GOLDEN EXPANSION (Years 301 - 1000)
-- **Year 450 (The Ledger Act)**: Introduction of Stamped Currency.
-- **Year 610**: First contact with Veridia/Sylphids.
-- **Year 950**: The Guild begins hoarding World-Altering Artifacts.
+### 2. THE GOLDEN EXPANSION (1000 AD - 1200 AD)
+- **1050 AD (The Ledger Act)**: Introduction of Stamped Currency.
+- **1100 AD**: First contact with Veridia/Sylphids.
+- **1150 AD**: The Guild begins hoarding World-Altering Artifacts.
 
 ### 3. THE XYLOSIAN BETRAYAL (The Leverage Trap)
-- **Year 1227 (The Arrival)**: Genghis Khan arrives, seizing the throne of Xylos and violently rejecting the Guild's authority.
+- **1227 AD (The Arrival)**: Genghis Khan arrives, seizing the throne of Xylos and violently rejecting the Guild's authority.
 - **The Response**: The Guild initiates the Blacklist. All Ascenders evacuate.
-- **Year 1228 (The Fall)**: Genghis Khan's unchecked ambition triggers a massive Tier 3 Tear. Xylos is consumed by the Abyss and becomes "The Wild South."
+- **1228 AD (The Fall)**: Genghis Khan's unchecked ambition triggers a massive Tier 3 Tear. Xylos is consumed by the Abyss and becomes "The Wild South."
 - **The Lesson**: "Kings rule the land, but the Guild rules the reality."
 
-### 4. THE MODERN ERA (Years 1230 - 2026)
-- **Year 1300**: Human Core Prohibition enacted.
-- **Year 1590**: The Stagnation Crisis. No new major cities founded.
-- **Year 2026 (Present Day)**: Abyssal Tears are occurring daily. The Guild predicts a Global Breach.
+### 4. THE MODERN ERA (1230 AD - 2026 AD)
+- **1300 AD**: Human Core Prohibition enacted.
+- **1590 AD**: The Stagnation Crisis. No new major cities founded.
+- **2026 AD (Present Day)**: Abyssal Tears are occurring daily. The Guild predicts a Global Breach.
 
 ---
 
@@ -826,16 +817,12 @@ While Grey-Wares are built in factories, Artifacts are born from the world itsel
 
 ### A. EXAMPLES OF ARTIFACTS
 
-#### 1. The Weeping Blade (Natural - Water Element)
-- **Origin**: Found in the crushing depths of the ocean.
-- **Ability**: A sword handle made of coral that projects a blade of pressurized, cutting water. It never dulls, but it requires the user to hydrate constantly, drawing water from their body to function.
-
-#### 2. The Echo-Mask (Ruined - Psychic)
+#### 1. The Echo-Mask (Ruined - Psychic)
 - **Origin**: Excavated from a pre-human crypt.
 - **Ability**: A porcelain mask that allows the wearer to see the "Intent" of enemies (predicting attacks 0.5 seconds before they happen).
 - **Cost**: It feeds on the wearer's sanity.
 
-#### 3. The Lodestone Shield (Forged - Gravity)
+#### 2. The Lodestone Shield (Forged - Gravity)
 - **Origin**: Crafted by the Grand Smith of Ferrum.
 - **Ability**: A floating metal disk that orbits the user. It generates a localized gravity field that deflects incoming projectiles into the ground.
 - **Lifespan**: High. It recharges itself by absorbing ambient sunlight.
@@ -921,7 +908,7 @@ Movement in Orbis is defined by class. The wealthy burn mana to mock time and di
 
 ---
 
-## XVII. THE CELESTIAL MECHANICS & CALENDAR
+## XV. THE CELESTIAL MECHANICS & CALENDAR
 While the passage of time mirrors Earth for the sake of mortal sanity (24 hours, 365 days), the physical mechanics of Orbis are unique to accommodate its massive scale.
 
 ### 1. THE SCALE: THE GEODE THEORY
@@ -971,7 +958,7 @@ Because the Gods suppress the "True Wind," weather is semi-artificial and highly
 
 ---
 
-## XVII. "LIFE IN..." SNAPSHOTS FOR EACH NATION
+## XVI. "LIFE IN..." SNAPSHOTS FOR EACH NATION
 
 ### 1. AURELIA (The Golden West)
 *"The Land of Plenty"*
@@ -1006,7 +993,7 @@ Because the Gods suppress the "True Wind," weather is semi-artificial and highly
     - **The Reality**: Communities living in "Container Towns" (repurposed shipping crates).
     - **The Work**: "Picking." Families sift through industrial waste to find salvageable copper or unspent mana-shards.
 - **Systems of Society**
-    - **Religion System**: The Rite of Forge. Worship through labor. "To build is to pray." Statues of Vulcanis are not in temples, but on the factory floors.
+    - **Religion System**: The Rite of Forge. Worship of labor. "To build is to pray." Statues of Qin Shi Huang are not in temples, but on the factory floors.
     - **Governance System**: Corporate Oligarchy. Ruled by "The Board" (CEOs of the major Guilds). Citizenship is tied to Net Worth. If you are rich, you are free; if you are poor, you are an employee.
 
 ### 3. VALORIA (The Heartland)
@@ -1136,7 +1123,7 @@ Because the Gods suppress the "True Wind," weather is semi-artificial and highly
 *Life here is defined by the absence of Gods. The "True Wind" blows, monsters roam freely, and the Guild is the only law.*
 
 - **Xylos (The Wild South)**:
-    - **The Atmosphere**: Lawless and overgrown. Since the "Xylosian Betrayal" in 1143, it is a failed state reclaimed by nature.
+    - **The Atmosphere**: Lawless and overgrown. Since the "Xylosian Betrayal" in 1227, it is a failed state reclaimed by nature.
     - **The Daily Grind**: Humans here are scavengers or outlaws living in the ruins of the old kingdom. They hunt for "Scars" (Dead Mana Zones) to mine volatile Aether.
     - **Key Danger**: There are no city guards, only wandering Ascenders looking for bounties.
 
@@ -1252,7 +1239,7 @@ The spirit must be filled to 100% capacity.
     - **Greed Path**: Etch **THE GREED NODE** (Burst). This grants a 3rd power but makes the spirit "noisy" and turbulent. It *delays* the Breakthrough significantly as the user must stabilize the chaos before they can safely expand.
 
 **4. PHASE 4: THE BREAKTHROUGH (The Stretch)**
-- **Mechanism**: The user cannot advance by eating low-rank cores. They must consume **Rank N+1 Cores**. The higher density is required to physically stretch the lattice to the next size.
+- **Mechanism**: The user cannot advance by eating low-rank cores. They must consume **Rank N-1 Cores**. The higher density is required to physically stretch the lattice to the next size.
 - **Variable Speed**: Transmigrators with adaptable souls can digest these heavy cores faster than natives.
 
 #### III. PERCEPTION OF POWER (The Instinct)
@@ -1333,7 +1320,7 @@ The climb is not linear. At specific Ranks, the Cosmology of Orbis imposes Barri
 
 ---
 
-## XIX. GUILD ARMORY LEDGER (v4.0)
+## XVIII. GUILD ARMORY LEDGER (v4.0)
 
 **DOCUMENT ID**: LOG-ARM-CENTRAL  
 **ISSUING BODY**: The Order of the Broken Chain – Logistics Division (The Compass)  
@@ -1481,7 +1468,7 @@ Apocalyptic Assets. Usage implies the end of a region.
 
 ---
 
-## XX. LINGUISTICS (v4.0)
+## XIX. LINGUISTICS (v4.0)
 
 **The Four Tongues of the Third Epoch**
 Language in Orbis is not just a means of communication; it is a measure of closeness to the "Truth." All languages stem from the Progenitors, but as they branched out, they lost their magical potency.
@@ -1562,7 +1549,7 @@ Language in Orbis is not just a means of communication; it is a measure of close
 
 ---
 
-## XXI. VALORIA LORE
+## XX. VALORIA LORE
 **Volume**: The Geopolitical Landscape of the Central Powers  
 **Entry**: The Confederated Baronies of Valoria  
 **Author**: High Archivist Corvus, Arcanum Ministry of Truth  
@@ -1650,7 +1637,7 @@ The Ascenders Guild (HQ in Vance) strictly enforces the "Contract of Neutrality"
 
 ---
 
-## XXII. FACTION ALIGNMENT ROSTER
+## XXI. FACTION ALIGNMENT ROSTER
 
 ### I. THE LIGHT (The Moral Anchors)
 *These factions generally prioritize life, community, and protection, though they are not perfect.*
@@ -1759,7 +1746,7 @@ The Ascenders Guild (HQ in Vance) strictly enforces the "Contract of Neutrality"
 
 ---
 
-## XXIII. PROTOCOLS OF KNOWLEDGE (Narrative Constraints)
+## XXII. PROTOCOLS OF KNOWLEDGE (Narrative Constraints)
 *The following rules dictate the distribution of information within the setting. Characters should strictly adhere to these limitations based on their social standing.*
 
 ### 1. CIVILIAN KNOWLEDGE (The Common Awareness)
