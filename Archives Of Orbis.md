@@ -1012,7 +1012,7 @@ Because the Gods suppress the "True Wind," weather is semi-artificial and highly
     - **The Work**: Every farmer owns a spear and a shield. Drills are held on Sundays. If a monster attacks, the village mobilizes as a militia unit within minutes.
 - **Systems of Society**
     - **Religion System**: The Code of Bellum. Honor-based. Worship involves martial arts training and discipline. Cowardice is a sin.
-    - **Governance System**: Stratocracy (Military Junta). "Service Guarantees Citizenship." Only veterans can vote. The leader is the Grand Marshal.
+    - **Governance System**: Stratocracy (Corporate Military Junta). The nation is a confederation of five semi-autonomous Baronies, each ruled by a Baron who sits on the "Iron Council." The Council elects a "Grand Marshal" to lead in times of Total War, but in peacetime, the Barons rule their own territories like corporate CEOs.
 
 ### 4. ARCANUM (The Sanctum)
 *"The Quiet Valley"*
