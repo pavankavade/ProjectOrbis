@@ -106,7 +106,7 @@ The geopolitical heart of Orbis, where the major deities hold sway.
 #### Ferrum (The Iron South)
 - **Patron**: Qin Shi Huang (The Dragon Emperor).
 - **Domain**: Industry, Fire, Walls, Order.
-- **Geography**: A jagged peninsula of smog, active volcanoes, and factories, separated from the Wild South by the **Great Iron Wall**.
+- **Geography**: A jagged peninsula of smog, active volcanoes, and factories, separated from the Wild South by the **Great Iron Wall** (originally built to ward off ancient titans).
 - **Key Feature**: The Terracotta Expanse (The Infinite Army).
 
 #### Valoria (The Heartland)
@@ -480,27 +480,209 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
     - Iron souls are built on "Stilled Essence" (optimized, resistant to change).
 - **The Mission**: These souls are Living Anchors. They are sent into the "Old World" to force it to submit to Order.
 
-#### THE LOST ANCHORS ROSTER (Chronological Order)
-*Historical records of Earth-Souls confirmed by the Guild's "Archive of Origins."*
+#### THE LEGACY OF ANCHORS (Chronological History)
+*Detailed records of the Earth-Souls who shaped the foundations of the world.*
 
-| Timeline | Name & Origin | Earth Archetype | The Disappearance / Mystery | Orbis Legacy |
-| --- | --- | --- | --- | --- |
-| **~2600 BC** | **Gilgamesh** (Sumer) | The Tyrant King | Failed his quest for immortality. Legend says he died returning to Uruk, but his tomb was never found. | **The First Fail-State.** He became the "King of Heroes," establishing the concept of the *Ascender*. His failure to find immortality led to the creation of the first *Mana Core* technique. |
-| **~1750 BC** | **Hammurabi** (Babylon) | The Lawgiver | His empire crumbled immediately after his death, and his Law Code stele was looted. | **The Judge.** He inscribed the *First Laws of Magic* onto the world itself, creating the "Contracts" that bind spirits and men. |
-| **~1458 BC** | **Hatshepsut** (Egypt) | The Female King | Her successor attempted to erase her from history, chiseling her name off every monument. | **The Gilded Pharaoh.** She founded the *Golden Trade Routes* of Aurelia, teaching humans how to manipulate economy as a form of magic. |
-| **~930 BC** | **King Solomon** (Israel) | The Wise Summoner | His death was recorded, but his legendary artifacts—the **Ring** and the **Key**—vanished. | **The Binder.** He was the first to map *Sphere 3 (The Spirit Echo)*, creating the system of Demon-Binding that Warlocks use today. |
-| **~500 BC** | **Valmiki** (India) | The Sage / Poet | The bandit-turned-sage who wrote the *Ramayana*. He simply faded into the forests of legend. | **The Voice.** He introduced *Sanskrit* as a High-Language, a magical tongue that stirs nature. Its "Normal" version is one of the prominent languages of Orbis. He is still alive, dwelling in the deep forests of Veridia as the "Primeval Sage." |
-| **323 BC** | **Alexander the Great** (Macedonia) | The Conqueror | Died of a mysterious illness at 32. His body was hijacked and his tomb lost. | **The Golden King.** He brought the "Golden Age" of conquest. His spirit is said to be the patron of the *Sun King* lineage in Aurelia. |
-| **210 BC** | **Qin Shi Huang** (China) | The Dragon Emperor | Ascended to the Celestial Lattice. | **The Forge Father.** He is now worshipped as the God of Ferrum. He created the *Ash-Forged* (Terracotta Army) and built the **Great Iron Wall** to seal the Abyss-tainted south. |
-| **12 BC** | **Marcus Agrippa** (Rome) | The General | The true architect of Rome. Died suddenly at 51, leaving his work to Augustus. | **The Architect.** He is the true founder of the *Ascenders Guild*. He built the first Guild Hall and established the "Order of the Broken Chain" to organize humanity against monsters. |
-| **275 AD** | **Aurelian** (Rome) | The Restorer | Betrayed by his officers. His soul ascended to the vacant Sun Throne. | **The Sun King.** He restored the fractured Golden West and established the *Sol Invictus* dogma. He enforces "Public Virtue" and Order as the Patron of Aurelia. |
-| **415 AD** | **Hypatia** (Alexandria) | The Mathematician | Murdered by a mob. Her remains were scattered and burned. | **The Scholar.** Her shade haunts the *Arcanum Libraries*. She whispers the secrets of "Sacred Geometry" (Rank 3 Magic) to worthy students. |
-| **1227 AD** | **Genghis Khan** (Mongolia) | The Great Khan | Died during a campaign. His burial site remains the world's greatest mystery. | **The Demon King.** He was the King of Xylos. He betrayed the Guild to restart his conquest, but his ambition triggered a Tier 3 Tear. The Abyss consumed him, turning him into a Demon Lord who now rules the *Wild South*. |
-| **1433 AD** | **Zheng He** (China) | The Admiral | Vanished during his seventh voyage. His tomb is empty. | **The Navigator.** He charted the *Outer Seas* and established the Aethelgard Trade Federation. He is the reason the seas are navigable despite the monsters. |
-| **1582 AD** | **Oda Nobunaga** (Japan) | The Demon Lord | Betrayed at Honno-ji. His body was never found in the burning temple. | **The Ash-Shogun.** He introduced "Total War" concepts to Ferrum. It is rumored he is the one who invented *Gunpowder* (now replaced by Magitech) before disappearing into the Abyss. |
-| **1890 AD** | **Louis Le Prince** (France) | The Inventor | Vanished from a train. Neither he nor his luggage were ever seen again. | **The Illusionist.** He unlocked *Sphere 3 Visuals*, creating the first "Memory Crystals" that allow people to record and replay history. |
-| **1913 AD** | **Rudolf Diesel** (Germany) | The Engineer | Vanished from a steamship. His bed was never slept in. | **The Engine-Father.** He revolutionized Ferrum by designing the *Mana-Combustion Engine*, allowing for the creation of tanks and airships. |
-| **1937 AD** | **Amelia Earhart** (USA) | The Aviator | Vanished over the Pacific. No trace of her or the plane found. | **The Sky-Walker.** She was the first human to tame a *Wind Spirit* without a contract. She founded the "Sky-Knight" corps of Aurelia. |
+##### Gilgamesh (~2600 BC) — The First Vanguard
+Arriving in the brutal chaos of Epoch 1, Gilgamesh did not pull humanity from the mud alone. He was the spearhead of a Vanguard—a coalition of brilliant, desperate mortals, some of whom would later ascend to the Celestial Lattice to become the modern Human Gods. Together, they hunted the Progenitor beasts, surviving the agonizing process of eating raw monster cores to force their own spiritual evolution, effectively carving the first "Mana Cores" into human biology.
+
+His tragedy was not a simple failure to find immortality, but a catastrophic betrayal. As his peers grew drunk on the power of the Spheres and prepared to usurp the vacant Thrones of Sphere 1, Gilgamesh realized the horrifying truth of the cosmos: creating "Order" in Orbis would inevitably pump rot into the Abyss (The Law of Equivalent Distortion). He violently opposed their ascension, advocating for a gritty, mortal-led world free of divine filters.
+
+Deeming him an existential threat to their newfound divinity, his former comrades—the nascent Pantheon—ambushed him. Unable to truly kill a soul so dense with Earth's "Stilled Essence," they sealed him deep beneath the forbidden crust of Terra Incognita in a state of living calcification. History was subsequently rewritten by the victors to paint him as a tragic, arrogant tyrant who died of hubris, erasing his martyrdom.
+
+##### Sargon of Akkad (~2300 BC) — The War-Bringer
+Arriving in a world where humans were still fighting as disorganized, terrified warbands against the surviving Progenitor beasts, Sargon introduced the terrifying concept of synchronized, disciplined warfare to Orbis. Before him, magic was an individualistic, suicidal struggle for survival. Sargon unified fractured tribes into the first true human empire by weaponizing the cosmic law of "Harmonic Resonance" on a macroscopic scale.
+
+He realized that individual power was mathematically inferior to collective synergy. By organizing thousands of low-tier Ascenders with complementary elemental Boons—matching Earth anchors with Fire reaches in strict, interlocking phalanx formations—he created army-level spell arrays. These formations could output enough collective "Weight of Truth" to physically crush Old Gods through sheer, coordinated numbers, proving that organized mortals could slaughter divine beasts.
+
+Sargon’s relentless, mortal-led expansion eventually terrified the newly ascended Human Gods, who had only recently betrayed Gilgamesh to secure their Thrones. Deeming Sargon's unified empire an existential threat to their supremacy, the Pantheon struck him down not with a monster, but with a divine curse of "Flesh-Rot" sent directly from the Celestial Lattice. His empire was intentionally shattered by the Gods to prevent humanity from ever organizing on that scale again, cementing the fractured, paranoid geopolitics of the modern era.
+
+##### Abraham (~2000 BC) — The First Prophet
+Arriving in a traumatized world where mortals groveled before the newly ascended Human Gods, Abraham saw the glowing avatars of Sphere 1 not as divine saviors, but as flawed, parasitic middlemen. Possessing the unyielding "Stilled Essence" of an Earth soul, his spirit resonated on a frequency that bypassed the blinding light of the Celestial Lattice entirely. In moments of deep, agonizing meditation, Abraham was able to brush against the cosmic blockade separating Orbis from Sphere 0 (The Origin). Through this tenuous connection, the locked-out Architect granted him fleeting, mind-shattering glimpses of the "Primeval Truths"—the raw, unedited source code of reality. This revelation birthed the first true monotheism in Orbis: absolute faith in the unseen Architect over the visible, corrupt idols of the Pantheon.
+
+Armed with fragments of the Primeval Truth, Abraham wielded a form of magic that terrified the Gods. He bypassed their divine filters, shaping reality through pure, resonant faith rather than standard Alchemy or Draconic contracts. However, he was not immune to the physics of Orbis. The Law of Equivalent Distortion dictates that energy cannot be processed without waste; because Abraham was still a mortal vessel forcing Sphere 0 concepts into Sphere 2, his miracles did generate "Spiritual Dross." Yet, because his connection to the Origin was far purer and uncorrupted by the selfish, ego-driven refraction of the Human Gods, the Abyssal rot he produced was vastly reduced. He proved mathematically and spiritually that the Pantheon’s monopoly on magic was not only unnecessary, but it was the primary cause of the world's Abyssal overflow.
+
+Deeming him the ultimate heretic, the Pantheon launched a brutal, continent-wide crusade to erase him and his followers. Realizing that an open war would only invite the same divine annihilation that destroyed Sargon, Abraham took his movement underground. He founded a secret, ascetic religion—The Order of the Silent Origin. Operating in the shadows for four millennia, this radical cult remains active today. Its zealots pass down Abraham's forbidden methods of deep spiritual resonance, quietly observing the corrupt Magitech era, subtly working against the Pantheon's dominance, and preparing in the dark for the day the Architect finally shatters the blockade to reclaim the world.
+
+##### Hammurabi (~1750 BC) — The Judge
+Arriving in a traumatized world where frail mortals were endlessly slaughtered by surviving Progenitor beasts and the unchecked whims of the newly ascended Human Gods, Hammurabi realized that raw power was useless without binding structure. Drawing upon his Earthly obsession with codification, he etched the "First Laws of Magic" onto the metaphysical fabric of Orbis itself. He forced the chaotic, highly volatile magical energies of Sphere 2 to adhere to strict transactional logic, effectively authoring the physics of the High Draconic language.
+
+By tethering magic to absolute, inflexible law, Hammurabi allowed mortals to bind spirits, monsters, and each other through inescapable contracts. A mortal no longer needed to be physically stronger than a beast; they just needed to bind it to a rule the universe itself would enforce.
+
+However, this systemic order came with a horrific double-edged sword. While his laws stopped the immediate slaughter of humanity, they paved the way for the Pantheon to enforce the "Path of Grace." The Gods weaponized Hammurabi’s legal physics, using High Draconic contracts to trap generations of Ascenders into inescapable, absolute servitude in exchange for magical Boons.
+
+##### Hatshepsut (~1458 BC) — The Gilded Pharaoh
+Hatshepsut arrived in an era where humanity's survival still relied heavily on brute martial force and the blood of its Ascenders. Recognizing the ultimate inefficiency of constant warfare, she introduced a radical concept from her Earthly reign: economics as the highest form of magic. She established the Golden Trade Routes of what would eventually become Aurelia, teaching humanity how to physically store and manipulate magical potential energy through standardized currency.
+
+She essentially birthed the "Conductivity Standard," proving that wealth in Orbis was not just a representation of value, but a literal storage of power. By minting the first "Living Coins" capable of holding a mana charge, she shifted the geopolitical landscape of the planet overnight.
+
+Her influence demonstrated that a nation's treasury could bend reality just as effectively as an army of mages. She transferred the ultimate power of the world from the hands of violent warlords into the manicured grips of bankers and merchants, laying the unshakeable capitalist foundation that the deep-vault syndicates of Orbis run on today.
+
+##### Odysseus (~1180 BC) — The Trickster
+Following Hammurabi’s codification of magic, the Gods grew arrogant, confident that their High Draconic contracts had permanently trapped humanity in a web of divine compliance. Odysseus arrived not with overwhelming martial strength, but with unparalleled Earthly cunning. He recognized that Hammurabi’s magical laws were bound entirely by literal physics and syntax, completely devoid of "intent."
+
+Odysseus pioneered the terrifying art of "Conceptual Exploitation." He taught desperate mortal Ascenders how to find the loopholes in divine oaths and biological curses. He engineered "Trojan" spells—magical rites that outwardly registered as absolute submission to the Pantheon, but secretly contained hidden sub-clauses that siphoned the Gods' raw authority down into the mortal caster. He proved that humanity did not need to break the laws of the Gods; they simply needed to outsmart them.
+
+Simultaneously, he was the first mortal to map the chaotic coastal tides of Orbis, using navigational illusions and misdirection to slip past the colossal Leviathans guarding the Outer Seas. His ultimate fate remains one of the world's greatest mysteries. It is widely believed he didn't die, but simply found a syntactical loophole in the concept of "death" itself, sailing his ship seamlessly into the Spirit Echo (Sphere 3) to permanently escape the humiliated, wrathful gaze of the Celestial Lattice.
+
+##### King Solomon (~930 BC) — The Binder
+Building upon Hammurabi’s rigid laws and Odysseus’s cunning exploits, Solomon turned his gaze away from the material coil of Orbis and looked toward the terrifying, subconscious realms of Sphere 3 (The Spirit Echo). He possessed a soul of such immense "Stilled" density that he could withstand the psychic pressure of the Dream World without losing his sanity.
+
+Weaponizing contract magic, Solomon managed to yank demons, rogue shades, and volatile spirits across the dimensional veil, forcibly yoking them to his own will. This groundbreaking and highly illegal research founded the modern discipline of Warlock summoning. He proved that the Abyssal rot and spiritual dross created by the Gods could actually be harnessed and weaponized by mortals if the binding geometry was precise enough.
+
+His Hubris, however, eventually caught up with him. While the specifics of his death are unrecorded, his legendary artifacts—the Ring and the Key—vanished with him. Today, they remain the most coveted and dangerous relics in the Guild's forbidden catalog, rumored to be the only objects capable of tearing the veil between all five spheres wide open.
+
+##### Valmiki (~500 BC) — The Voice
+Disgusted by the transactional, dominating nature of Hammurabi's Draconic contracts and the dark servitude of Solomon's demon-binding, Valmiki fundamentally rejected the "command" languages of the modern world. He sought a path that did not subjugate the environment, but synchronized with it. Drawing upon deep Earthly asceticism, he introduced Sanskrit to Orbis—a language built entirely on vibrational resonance rather than dominance.
+
+Valmiki taught that magic could coax rather than enslave. By speaking Sanskrit correctly, an Ascender did not force a concept into reality; they physically vibrated the ambient mana, urging nature to grow, heal, and align with the user's spirit. It was the first "clean" magic that produced almost zero Abyssal rot.
+
+He is the only ancient Anchor confirmed to still be alive. Having stepped entirely away from the political machinations, Guild assassinations, and divine wars of the modern era, he dwells deep within the hostile, overgrown jungles of Veridia as the "Primeval Sage," an untouchable myth tending to the roots of the world.
+
+##### Qin Shi Huang (210 BC) — The Forge Father
+The first Anchor to transcend mortality completely, the Dragon Emperor recognized that humanity's biological frailty was its greatest weakness. Unwilling to rely on the unreliable faith of the Pantheon or the fragile flesh of his soldiers, he successfully ascended to the Celestial Lattice, carving out his own divine seat to become the God of Ferrum.
+
+Once ascended, he engineered the Ash-Forged—an artificial terracotta army fueled by living fire and untouched by biological decay. To enforce his vision of Absolute Order, he constructed the **Great Iron Wall**—a continent-spanning fortress that physically severed his empire from the untamed, titan-infested wilderness of the 2nd Epoch. This wall created the first artificial biome where humanity could thrive without fear of the colossal beasts that still roamed the earth.
+
+He remains the ultimate symbol of industrial survival over nature, but also serves as a dark warning. He is the prime example of an Earth soul that fully assimilated into the Orbis ecosystem, abandoning his mortal origins to play the cruel, filtering games of the Gods in Sphere 1.
+
+##### Marcus Agrippa (12 BC) — The Architect
+Agrippa's arrival marked the definitive, brutal end of the mythic, unchecked Anchors. As the true founder of the Ascenders Guild (The Order of the Broken Chain), he recognized that a world reliant on individual, wildly powerful God-Kings was inherently unstable and doomed to Abyssal collapse.
+
+Agrippa built a systemic, bureaucratic machine to manage the global mana economy, regulate the hunting of monsters, and monitor every Ascender on the planet. He replaced the age of heroes with the age of infrastructure, standardizing the Sigil Ascension process so that power was no longer a mythic calling, but an industrialized profession tracked on ledgers and Soul-Plates.
+
+Crucially, Agrippa was the first to realize that knowledge of the "Stilled World" (Earth) was an existential hazard. He initiated the "Protocols of Knowledge," ruthlessly scrubbing the true origins of the previous Anchors from all historical texts. Under his design, the Guild ensured that history was rewritten, trapping humanity in a sanitized, highly controlled narrative to prevent existential panic and secure the Guild's absolute monopoly on truth.
+
+##### Aurelian (275 AD) — The Restorer
+Arriving in an Orbis still reeling from the structural shifts imposed by Agrippa’s newly formed Guild, Aurelian found the central human kingdoms fractured and vulnerable to Abyssal incursions. Drawing upon his Earthly genius for brutal, rapid reunification, he did not just conquer the Golden West; he culturally and magically galvanized it. Aurelian seized the vacant "Sun Throne" in the Celestial Lattice, establishing the dogma of Sol Invictus and creating the hyper-religious, sun-worshipping empire of Aurelia.
+
+Unlike the ancient Anchors who rebelled against the system, Aurelian made a cynical, unspoken pact with the Ascenders Guild. He recognized that exposing the true, magic-less origins of the Gods would shatter the "Public Virtue" and divine mandate he used to control his populace. In exchange for the Guild’s absolute logistical support and the suppression of any rivals, Aurelian willingly participated in the Great Silence.
+
+He became the perfect "native" God—a willing accomplice in the Guild’s cover-up. By wrapping his empire in the blinding, performative light of solar magic, he ensured that his citizens were too blinded by religious awe to ever question the geopolitical machinery operating in the shadows, perfectly cementing the Guild's control over the western continent.
+
+##### Hypatia (415 AD) — The Scholar
+Hypatia brought the cold, unyielding rigor of Earthly mathematics to a magic system that still heavily relied on intuition, emotion, and religious fervor. She recognized that the volatile "Wild Mana" of Orbis could be tamed not through prayer, but through calculus. She introduced "Sacred Geometry"—the spatial and mathematical foundation of Rank 3 Magic. By translating spells into flawless geometric equations, she allowed mages to bend space and gravity with terrifying, clinical precision.
+
+The Guild immediately recognized that her intellect was an existential threat. If magic could be reduced to mere equations, the religious and bureaucratic monopolies that kept the masses in check would collapse. However, her knowledge was too valuable to simply destroy. Mirroring her tragic Earthly fate, it is heavily implied the Guild's "Eye" division orchestrated the mob that murdered her in the streets of Arcanum.
+
+But death in Orbis is rarely the end for a high-density Anchor. The Guild bound her spirit to the deepest vaults of the Arcanum Libraries. Stripped of her mortal agency, Hypatia’s shade is now an indentured oracle of mathematics, forced to whisper the secrets of spatial manipulation only to High-Rank Guild scholars who have been deemed sufficiently loyal to the Order.
+
+##### Charlemagne (~800 AD) — The Iron Paladin
+By the 9th century, the Guild’s bureaucracy was excellent at managing money and secrets, but terrible at holding physical ground against the creeping corruption of the Abyss. Charlemagne arrived in a fractured, localized military landscape and brought the concept of the "Holy Crusade." He took the disparate, bloodthirsty mercenary bands of the central continent and forged them into the first unified Knightly Orders, merging heavy cavalry tactics with highly disciplined, faith-based Abyssal containment.
+
+Charlemagne weaponized loyalty. He taught that an Ascender's Anchor slot did not just bind them to an element, but could bind them to a sworn oath. He created the framework for Valoria's modern military-state, establishing the heavily fortified "Containment Lines" and proving that human flesh, when tempered by absolute conviction and heavy steel, could hold back the demons of Sphere 5.
+
+The Guild masterfully manipulated Charlemagne’s religious zeal. They positioned themselves as the divine administrators of his holy war, ensuring his massive, unified armies were always pointed directly at the Abyss and never at the Guild's own High Commands. When Charlemagne eventually died—or was quietly "retired" by the Guild before his influence could eclipse their own—they immortalized him as a mythological saint, safely burying the Earth-king beneath centuries of Valorian military propaganda.
+
+##### Genghis Khan (1227 AD) — The Demon King
+Genghis Khan represents the Guild's greatest nightmare: an Anchor who completely shattered their paradigm of control. Arriving in the lush, powerful kingdom of Xylos, he looked at the Guild’s delicate geopolitical balance, their strict neutrality treaties, and their careful containment of the Abyss, and saw only weakness. He rejected the Guild’s authority entirely, uniting the wild southern tribes and attempting to restart his Earthly conquests on a terrifying, magical scale.
+
+He realized that the Guild’s rules were designed to keep humans weak enough to manage. By forcibly breaking the harmonic limits of his own soul to fuel his war machine, his unchecked ambition ruptured the planetary seals. The resulting metaphysical strain triggered a massive Tier 3 Tear that swallowed the entire kingdom of Xylos, mutating him into a Demon Lord and turning the region into the monster-infested "Wild South" that exists today.
+
+The destruction of Xylos is the Ascenders Guild’s most closely guarded secret. They heavily scrubbed his true origins from the archives, framing the disaster as the result of native political arrogance rather than the apocalyptic fallout of an out-of-control Earth soul. Genghis Khan remains alive in the deep south, a terrifying reminder to the Iron Council that no matter how tightly they control the world, they are always one rogue Anchor away from total annihilation.
+
+##### Leonardo da Vinci (1502 AD) — The Flesh-Mechanic
+Arriving in an era where the Ascenders Guild had reduced magic to a rigid system of sanctioned Sigils, Leonardo saw Orbis not as a world of divine mystery, but as a staggering biological machine waiting to be reverse-engineered. He was the first Earth-soul to systematically dissect the physical anatomy of magic, mapping exactly how a Mana Core rooted itself into the mortal nervous system and how the Soul-Lattice physically reacted to Abyssal rot. He drafted the first functional blueprints for "Bio-Magitech"—clockwork prosthetics that circulated living blood to prevent overheating, and mechanical aether-wings that grafted directly into an Ascender's spine.
+
+When the Guild's "Eye" division inevitably discovered his subterranean workshop, the Iron Council did not execute him. Recognizing that his genius could manufacture an army of optimized, artificial Ascenders, they offered him a simple choice: the executioner's block, or unlimited funding in the darkest, undocumented sub-levels of the Guild's HQ in Vance.
+
+Leonardo accepted the funding. Today, he is still alive, having survived for over 500 years by ruthlessly applying his "Vitruvian Man" theorems to his own body. He is now more machine and chimera than human, constantly swapping out failing organic organs for ticking, mana-fueled prototypes. He serves as the Grand Artificer of the Guild's "Black Forge" (the highly classified R&D subdivision of the Alchemy Ward), where he personally engineers the horrifying, body-altering augmentations required by the Guild's apocalyptic Rank 1 Zero Squad.
+
+##### Nikola Tesla (1895 AD) — The Aether-Conductor
+Arriving at the bleeding edge of the Magitech Revolution, Tesla looked at the Guild’s heavily regulated "Conductivity Standard"—where power was hoarded in physical, rechargeable coins and heavy crystal batteries—and was disgusted by its crude inefficiency. Recognizing that Orbis’s atmosphere was saturated with ambient, naturally occurring mana, Tesla mathematically proved that magic did not need to be physically mined or carried. He invented the framework for "Resonant Frequency Broadcasting," essentially proving that vast amounts of magical energy could be transmitted wirelessly through the air to power machinery and cast spells anywhere on the planet.
+
+This discovery triggered absolute panic within the Deep-Silver Syndicate and the Guild's Ledger division. If mana became wireless and free, the global banking economy would collapse overnight, and the Guild would lose its absolute control over who was allowed to wield power. They could not let Tesla publish, but they could not afford to lose his mind to the Abyss. The Guild quietly abducted him, staging his disappearance just as he was preparing to broadcast his first public demonstration.
+
+Forced into the Guild's servitude alongside Da Vinci, Tesla was given total control over the newly formed "Resonance Directorate"—the department responsible for the invisible infrastructure of the world. While Da Vinci obsessively tinkers with flesh and metal in the Black Forge, Tesla looks upward. He operates from a sterilized, ozone-scented tower where he single-handedly manages the continent-spanning Vox-Lattice (the quantum communication network), the Ley-Tram power grids, and the massive, invisible Atmospheric Wards that protect the capital cities from Coriolis storms. Deeply bitter about his captivity, Tesla's current, highly classified project involves weaponizing the global Aether-Grid to create atmospheric death rays capable of vaporizing Stage 3 Abyssal Scars from hundreds of miles away.
+
+#### MODERN ANCHORS (The Post-Displacement Era)
+
+##### I. The Paradigm Shift: The Architect’s Desperation
+Before 1900, the Architect pulled singular, history-altering geniuses across the veil once every few centuries. Post-1900, the cosmic mechanics broke down. Locked out of Sphere 0, the Architect began brute-forcing the dimensional blockade, dropping 2 to 4 ordinary Earth souls into Orbis every single year.
+
+**The Population**: Between 300 and 400 modern Anchors currently exist or have existed in this era. They are not conquerors or prophets; they are factory workers, teachers, IT specialists, and accountants.
+
+**The Goal**: The Architect is essentially executing a cosmic DDOS attack—flooding the Orbis "server" with uncorrupted Earth souls (Stilled Essence) to dilute the Abyssal rot, destabilize the Pantheon's monopoly, or blindly roll the dice for a statistical anomaly capable of breaking the system.
+
+##### II. The Arrival Mechanics & The "Pristine" Liability
+When a modern Anchor is pulled into Orbis, they do not possess a native citizen. The Origin physically reconstructs their Earthly body as they pass through the veil, optimizing their biological baseline to survive the hostile physics of Orbis (1.1G gravity, 1,500 mph Coriolis atmospheric pressure, and toxic ambient mana).
+
+**The Physical Trap**: They arrive completely cured of Earthly ailments, with maximized muscle density and perfect health. However, in the smog-choked, malnourished, and Abyss-scarred slums of Magitech cities, a perfectly pristine human sticks out like a beacon.
+
+**The Arrival Glitch**: Because their rigid "Stilled Essence" does not immediately sync with the volatile magic of Orbis, new Anchors generate a metaphysical static for their first few weeks. Guild scanners fail to read them, low-level elemental magic fizzles around them, and city Wards flicker when they pass through checkpoints.
+
+##### III. The Guild’s Countermeasure: The Black Census
+Terrified of an existential leak that could shatter their absolute control over history and magic, the Ascenders Guild established The Black Census—a highly classified sub-department of the "Eye" division.
+
+**The Protocol**: Informants in the mud-flats are paid to report anyone looking "too healthy" or speaking an unknown language. Scrying algorithms actively hunt for the "Arrival Glitch."
+
+**The Objective**: The Guild aims to locate, bag, and process an Anchor within the first month of their arrival—before they adapt to the language, before they understand the magic system, and before they can speak the truth of Earth to the public.
+
+##### IV. The Six Classifications of Modern Anchors
+Once captured or identified, the ordinary Anchors of the 20th and 21st centuries are aggressively sorted into one of six categories by the Iron Council:
+
+**1. The Corporate Assets (The Assimilated)**
+If an Anchor possesses a mundane but highly useful Earth skill, the Guild offers them a comfortable, lavish captivity bound by a High Draconic vow of silence. They become the invisible gears of the Orbis bureaucracy.
+*Example*: An Earth supply-chain manager who now runs the predictive logistics algorithms for Valoria's border containment lines.
+*Example*: A structural engineer quietly employed by the Dvar syndicates to apply Earth mathematics to the load-bearing supports in deep-crust Magitech mines.
+
+**2. The Puppets (The Tacitly Approved)**
+If an Anchor slips through the initial net, ascends quickly, and gains public fame before the Guild can quietly erase them, they are offered a deal: accept a falsified "noble" backstory and play the role of a native Orbis hero, or face immediate assassination.
+*Example*: A charismatic, sociopathic Earth cult leader whose mass-psychology translated into a high-tier "Boon of Empathy." The Guild legally sanctioned him as an Aurelian High Priest, keeping the working class pacified with his sermons.
+*Example*: A former Olympic athlete playing the role of a "divinely blessed" gladiator in the Valorian fighting pits.
+
+**3. The Black-Site Prisoners (The Unbroken)**
+Anchors who refuse to submit, attempt to introduce non-magical Earth technology (like chemistry-based firearms), or try to preach democracy to the Ferro-speaking underclass are taken to "The Silo"—a sensory-deprivation black-site deep beneath the Valorian capital.
+*Example*: A WWI trench officer who attempted to organize a peasant rebellion using rudimentary guerilla warfare. He has spent decades in a time-dilated stasis cell, his soul slowly siphoned to power the prison's containment wards.
+
+**4. The Shadow Operatives (The Hidden)**
+The smartest, most paranoid Anchors figure out the terrifying reality of the Guild immediately and go off the grid. They seek out Orbis’s underground resistance movements, offering their Earthly perspectives and pristine physical baseline as muscle or intelligence.
+*Example*: An investigative journalist from Earth who now runs decentralized, non-magical espionage networks for the Order of the Empty Throne (the underground monotheistic cult founded by Abraham).
+
+**5. The Ghosts (The Evaders)**
+The most tragic Anchors are those who realize that magic is a death sentence. To survive, they deliberately suppress their own potential. They never awaken their Anchor slots, never register for a Soul-Plate, and vanish into the sprawling industrial slums.
+*Example*: A former line cook running a dirty noodle stall in the Valorian mud-flats. He possesses a Rank 9 (Copper) fire boon that he strictly uses only to keep his broth boiling. He knows the Gods are fake, but he simply keeps his head down, pays his gang protection money, and prays the Black Census never looks his way.
+
+**6. The Twisted (The Failures)**
+Anchors who panic upon arrival and attempt to survive by violently ingesting monster cores without the Guild's Alchemy (The Path of Rites). Lacking Rudra's unique analytical coping mechanism, their souls crash under the incompatible code. They violently mutate and are subsequently captured, ending up in cages within Leonardo da Vinci's "Black Forge" for biological experimentation.
+
+#### CLASSIFICATION OF EXTRACTED KNOWLEDGE FROM MODERN ANCHORS
+
+##### Level 1: "Sanctioned Dogma" (Publicly Implemented)
+This knowledge is perfectly safe for the Guild to mass-produce. It pacifies the public, increases labor efficiency, and generates massive wealth without threatening the magical aristocracy.
+
+- **Industrial Farming (The Haber-Bosch Concept)**: Anchors explained the surface-level idea of chemical fertilizers and crop rotation. The Guild translated this into "Alchemical Soil-Seeding." It allows them to mass-produce cheap, nutrient-paste crops to feed the millions of Ferro-speaking workers in the slums, preventing starvation-based riots.
+- **The Assembly Line (Fordism)**: The concept of dividing complex tasks into idiot-proof, repetitive steps. The Guild used this to abandon artisanal blacksmithing. Now, unawakened peasants mass-produce standard-issue "Grey-Ware" weapons and armor for the mercenary armies.
+- **Mass Media & PR (Radio/Television)**: Anchors explained how broadcast media shapes public opinion. Tesla built the "Vox-Lattice," a network of crystal-receivers placed in public squares. The Guild broadcasts sanctioned arena fights, heroic propaganda, and curated news to keep the public entertained and unquestioning.
+- **Synthetic Polymers (Plastics)**: Anchors explained that Earth makes cheap, durable materials out of oil. Da Vinci synthesized an alchemical equivalent from low-grade Abyssal sludge. It allows the Guild to sell cheap, non-degradable goods to the lower classes while the nobility still uses real wood and metal.
+- **Fractional Reserve Banking**: Extracted from ordinary accountants and bankers, this concept taught the Deep-Silver Syndicate how to lend out more money than they actually have in the vaults. It shifted the Orbis economy from a gold-standard to a debt-standard, allowing the Guild to essentially own the working class through perpetual mortgages and Alchemy-loans.
+
+##### Level 2: "Restricted Arcanum" (Guild Monopoly)
+This knowledge provides a massive tactical or administrative advantage. It is heavily utilized but strictly kept out of the hands of the public. Only Guild officials and high-ranking military commanders have access to it.
+
+- **Computing Logic (Turing Machines/The Internet)**: Anchors explained that Earth uses interconnected machines processing 1s and 0s. Tesla built "Crystal-Engines" using aetheric logic gates. The Guild uses this closed-loop "Aether-Net" to instantly process taxes, track bounties, update Soul-Plates, and run predictive logistics for their armies, operating lightyears ahead of civilian paper-pushers.
+- **Aerodynamics (Aviation)**: The public believes the sky belongs exclusively to the Gods and biological beasts. However, Anchors explained the concept of lift, thrust, and airfoils. The Guild secretly constructs Aether-Cruisers—massive, non-biological flying fortresses used to quickly deploy elite Hunter squads or bombard Abyssal tears from the stratosphere.
+- **Supply Chain Logistics (Just-In-Time)**: Extracted from modern corporate managers. The Guild applies Earth's algorithmic shipping models to the Ley-Tram network. They can calculate exactly how many monster cores are needed in Valoria on a Tuesday, completely optimizing the hunting economy and ensuring no province ever hoards too much power.
+- **Advanced Cryptography**: Anchors explained the concept of asymmetric encryption and digital keys. The Guild uses Earth mathematics to encrypt their Vox-Lattice communications. Because native Orbis mages think purely in Draconic language and magical geometry, they literally lack the mathematical foundation to break the Guild's codes.
+- **Psychological Operations (PsyOps)**: Anchors explained how modern governments use disinformation, false flags, and controlled opposition. The "Eye" division uses this to artificially fund fake rebellion groups, flushing out true dissidents, or to stage "wild" monster attacks on villages that fall behind on their taxes.
+
+##### Level 3: "The Black Forge" (Highly Classified Weaponization)
+This knowledge is extremely dangerous. It is actively researched and weaponized in the darkest, undocumented sub-levels of the Guild, but any public leak would result in mass panic or an arms race.
+
+- **Atomic Theory (Nuclear Fission)**: Any high-schooler knows that splitting an atom creates a mushroom cloud. The Guild doesn't care about uranium, but Tesla applied the theory to Mana Cores. By mathematically forcing a Rank 3 Geodesic Core to violently destabilize, they created "Mana-Nukes"—weapons of mass destruction pointed at the Wild South, kept as a last resort.
+- **Genetics & DNA (The Double Helix)**: Anchors explained that traits are passed down through microscopic code. Da Vinci realized that a mortal's Soul-Lattice operates on a similar, editable sequence. He uses this knowledge for "Genetic Soul-Splicing," forcibly grafting high-tier monster biology into the nervous systems of Zero Squad operatives without triggering Abyssal mutations.
+- **Autonomous Drones (Robotics)**: Anchors explained modern drone warfare. Because casting magic with a human soul generates "Abyssal Rot" (Equivalent Distortion), Tesla and Da Vinci build soulless, automated golem-drones. They are kept classified because if the public knew machines could fight the Abyss safely, the entire mercenary-industrial complex would collapse.
+- **Epidemiology & Biowarfare**: Anchors explained how viruses mutate and spread. The Black Forge engineers "Gene-Locked Rot"—synthetic magical diseases tailored to specific bloodlines. They can wipe out a rebellious noble family by poisoning the local water supply, making it look like a natural tragedy rather than a Guild assassination.
+- **Sonar and Radar Tracking**: Submarine mechanics and air-traffic controllers explained how bouncing waves can detect invisible things. Tesla applied this to the Vox-Lattice, creating an invisible, continent-wide radar that scans for unauthorized magical signatures, allowing the Guild to track rogue Ascenders even if they use invisibility boons.
+
+##### Level 4: "Heretical Constructs" (Erase on Sight)
+This is knowledge that fundamentally breaks the social, religious, or physical laws that keep the Guild in power. If an Anchor even mentions these concepts, they are immediately dragged to a black-site and executed.
+
+- **Chemistry-Based Firearms (Guns/Gunpowder)**: The Guild makes "Aether-Rifles," which still require a mage to pull ambient mana to fire. But true Earth firearms rely only on chemical reactions. The Guild ruthlessly suppresses gunpowder because if an unawakened, starving peasant can kill a Rank 5 Noble from 100 yards away without using an ounce of magic, the aristocracy is dead.
+- **Democracy and Labor Unions**: The concept that power derives from the consent of the governed, or that workers can paralyze a nation by striking. In a world ruled by "Divine Right" and High-Blood nobility, organizing a strike is treated as an Abyssal-level threat.
+- **Open-Source Culture**: The modern internet concept that information, code, and knowledge should be free and accessible to everyone. The Guild’s entire power structure relies on holding the monopoly on Alchemy recipes and Ascension rites.
+- **Atheism & Astrophysics**: The surface-level knowledge that the universe is vast, filled with other planets, and fundamentally indifferent, rather than a divine terrarium ruled by the Pantheon. To suggest the "Gods" are just powerful, biological parasites feeding on the world completely shatters the religious submission of the Path of Grace.
+- **The Scientific Method (Applied to Magic)**: The Guild wants the public to believe magic is a mysterious, divine gift requiring faith and blood. Earth’s scientific method—hypothesis, testing, peer review, and publishing—would demystify the magic system. If the public realized magic is just a rigid physics engine with exploitable bugs, they wouldn't need the Guild to tell them how to use it.
 
 ---
 
@@ -594,12 +776,12 @@ The Architect cannot enter Orbis directly (The Blockade is still up), and He can
 - **Year 950**: The Guild begins hoarding World-Altering Artifacts.
 
 ### 3. THE XYLOSIAN BETRAYAL (The Leverage Trap)
-- **Year 1142**: King Lysander of Xylos outlaws the Guild.
+- **Year 1227 (The Arrival)**: Genghis Khan arrives, seizing the throne of Xylos and violently rejecting the Guild's authority.
 - **The Response**: The Guild initiates the Blacklist. All Ascenders evacuate.
-- **Year 1143 (The Fall)**: A Stage 2 Gate opens. Without the Guild, it becomes a Stage 3 Scar. Xylos is destroyed and becomes "The Wild South."
+- **Year 1228 (The Fall)**: Genghis Khan's unchecked ambition triggers a massive Tier 3 Tear. Xylos is consumed by the Abyss and becomes "The Wild South."
 - **The Lesson**: "Kings rule the land, but the Guild rules the reality."
 
-### 4. THE MODERN ERA (Years 1146 - 2026)
+### 4. THE MODERN ERA (Years 1230 - 2026)
 - **Year 1300**: Human Core Prohibition enacted.
 - **Year 1590**: The Stagnation Crisis. No new major cities founded.
 - **Year 2026 (Present Day)**: Abyssal Tears are occurring daily. The Guild predicts a Global Breach.
